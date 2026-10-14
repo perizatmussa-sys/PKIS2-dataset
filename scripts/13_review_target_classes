@@ -1,0 +1,46 @@
+
+import pandas as pd
+from pathlib import Path
+
+folder = Path("processed")
+targets = pd.read_csv(folder / "targets.csv", dtype=str)
+
+# Terms that may indicate a special assay construct or state.
+pattern = (
+    r"mutant|mutation|phosphorylated|nonphosphorylated|"
+    r"active|inactive|domain|fusion|complex|"
+    r"\([A-Za-z]\d+[A-Za-z]\)"
+)
+
+special = targets[
+    targets["target_original"].fillna("").str.contains(
+        pattern, case=False, regex=True
+    )
+    | targets["wild_type_or_mutant"].fillna("").eq("mutant")
+].copy()
+
+special.to_csv(
+    folder / "s4_special_assays_review.csv",
+    index=False
+)
+
+print("=== TARGET CLASSIFICATION REVIEW ===")
+print("Total assays:", len(targets))
+print("Potentially special assays:", len(special))
+
+print("\n=== MUTANT-LABELED ASSAYS ===")
+print(
+    targets.loc[
+        targets["wild_type_or_mutant"] == "mutant",
+        ["target_original", "mutation", "parent_target"]
+    ].to_string(index=False)
+)
+
+print("\n=== POTENTIALLY SPECIAL ASSAYS ===")
+print(
+    special[
+        ["target_original", "wild_type_or_mutant"]
+    ].to_string(index=False)
+)
+
+print("\nSaved: processed/s4_special_assays_review.csv")

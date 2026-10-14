@@ -1,0 +1,167 @@
+source_row,compound_name,raw_columns,reason
+36,GW857175,"['GW857175', 'Cc1cccc(n1)-c1nc(Nc2ccc3[nH]ncc3c2)c2ccccc2n1', '7', 'JAK1(JH2domJAaKin1-pseudok=inase)', '650', '', '']",Could not confidently parse row
+69,PFE-PKIS 25,"['PFE-PKIS', '25', 'NC=N2', '10', 'JAK1(JH1domJAaKin1-catalytic=)', '3.2', '']",Could not confidently parse row
+71,PFE-PKIS 25,"['PFE-PKIS', '25', 'NC=N2', '10', 'JAK2(JH1domJAaKin2-catalytic=)', '0.22', '']",Could not confidently parse row
+73,PFE-PKIS 25,"['PFE-PKIS', '25', 'NC=N2', '10', 'JAK3(JH1domJAaKin3-catalytic=)', '0.13', '']",Could not confidently parse row
+77,PFE-PKIS 25,"['PFE-PKIS', '25', 'NC=N2', '10', 'RSK3(Kin.DoRmP.2S6-CK-Ate2rmin=al)', '1300', '']",Could not confidently parse row
+79,PFE-PKIS 25,"['PFE-PKIS', '25', 'NC=N2', '10', 'RSK4(Kin.DoRmP.2S6-CK-Ate6rmin=al)', '1400', '']",Could not confidently parse row
+81,PFE-PKIS 25,"['PFE-PKIS', '25', 'NC=N2', '10', 'TYK2(JH1domTYaKin2-catalytic=)', '6.9', '']",Could not confidently parse row
+92,PFE-PKIS 28,"['PFE-PKIS', '28', 'NCCCN4C(CCC4)=O', '3', 'RSK1(Kin.DoRmP.1S6-NK-At1ermin>al)', '10000', '']",Could not confidently parse row
+142,PFE-PKIS 34,"['PFE-PKIS', '34', '=N2', '9', 'JAK1(JH1domJAaKin1-catalytic=)', '120', '']",Could not confidently parse row
+144,PFE-PKIS 34,"['PFE-PKIS', '34', '=N2', '9', 'JAK2(JH1domJAaKin2-catalytic=)', '11', '']",Could not confidently parse row
+146,PFE-PKIS 34,"['PFE-PKIS', '34', '=N2', '9', 'JAK3(JH1domJAaKin3-catalytic=)', '3.6', '']",Could not confidently parse row
+158,PFE-PKIS 34,"['PFE-PKIS', '34', '=N2', '9', 'RPS6KA4(KinR.DPSo6mK.A14-N-te>rminal)', '10000', '']",Could not confidently parse row
+160,PFE-PKIS 34,"['PFE-PKIS', '34', '=N2', '9', 'TYK2(JH1domTYaKin2-catalytic=)', '110', '']",Could not confidently parse row
+172,PFE-PKIS 35,"['PFE-PKIS', '35', 'C)=O)C=C4', '16', 'RSK3(Kin.DoRmP.2S6-CK-Ate2rmin>al)', '10000', '']",Could not confidently parse row
+174,PFE-PKIS 35,"['PFE-PKIS', '35', 'C)=O)C=C4', '16', 'RSK4(Kin.DoRmP.2S6-CK-Ate6rmin>al)', '10000', '']",Could not confidently parse row
+262,PFE-PKIS 47,"['PFE-PKIS', '47', 'NC(C)=N2', '1', 'JAK3(JH1domJAaKin3-catalytic=)', '140', '']",Could not confidently parse row
+285,SKF-97510,"['SKF-97510', 'Cc1ccccc1-n1cnc2c(N)ncnc12', '8', 'RSK1(Kin.DoRmP.2S6-CK-Ate1rmin>al)', '10000', '', '']",Could not confidently parse row
+333,TPKI-106,"['TPKI-106', 'CCC1=NC(=C(S1)C1=CC=NC=C1)C1=CC(C)=CC=C1', '4', 'RSK1(Kin.DoRmP.2S6-CK-Ate1rmin=al)', '250', '', '']",Could not confidently parse row
+334,TPKI-106,"['TPKI-106', 'CCC1=NC(=C(S1)C1=CC=NC=C1)C1=CC(C)=CC=C1', '4', 'RSK4(Kin.DoRmP.2S6-CK-Ate6rmin=al)', '120', '', '']",Could not confidently parse row
+515,TPKI-49,"['TPKI-49', 'S1(=O)=O', '2', 'TYK2(JH2domTYaKin2-pseudok=inase)', '930', '', '']",Could not confidently parse row
+519,TPKI-50,"['TPKI-50', 'NN2)S1(=O)=O', '2', 'JAK3(JH1domJAaKin3-catalytic=)', '6800', '', '']",Could not confidently parse row
+523,TPKI-50,"['TPKI-50', 'NN2)S1(=O)=O', '2', 'TYK2(JH2domTYaKin2-pseudok=inase)', '130', '', '']",Could not confidently parse row
+529,TPKI-54,"['TPKI-54', '2(=O)=O', '1', 'RSK4(Kin.DoRmP.2S6-CK-Ate6rmin>al)', '10000', '', '']",Could not confidently parse row
+560,TPKI-57,"['TPKI-57', '=CC=CC=C1', '4', 'RSK3(Kin.DoRmP.2S6-CK-Ate2rmin>al)', '10000', '', '']",Could not confidently parse row
+703,TPKI-85,"['TPKI-85', ')=O', '4', 'JAK1(JH2domJAaKin1-pseudok=inase)', '190', '', '']",Could not confidently parse row
+861,UNC10224997A,"['UNC10224997A', 'Cc1cccc(n1)-c1nc(Nc2ccnc(C)c2)c2ccccc2n1', '2', 'JAK1(JH2domJAaKin1-pseudok=inase)', '410', '', '']",Could not confidently parse row
+904,UNC10225006A,"['UNC10225006A', 'c1cc(nc(N)n1)N1CCC[C@H](C1)C(=O)Nc1ccccc1', '5', 'JAK2(JH1domJAaKin2-catalytic>)', '10000', '', '']",Could not confidently parse row
+910,UNC10225008A,"['UNC10225008A', 'Cc1cccc(n1)-c1cc(Nc2ccncc2)c2ccccc2n1', '6', 'JAK2(JH1domJAaKin2-catalytic>)', '10000', '', '']",Could not confidently parse row
+914,UNC10225008A,"['UNC10225008A', 'Cc1cccc(n1)-c1cc(Nc2ccncc2)c2ccccc2n1', '6', 'RPS6KA5(KinR.DPSo6mK.A25-C-ter>minal)', '10000', '', '']",Could not confidently parse row
+921,UNC10225009A,"['UNC10225009A', 'c1ccc(cc1)C(=O)NCC1CC1', '3', 'TYK2(JH1domTYaKin2-catalytic>)', '10000', '', '']",Could not confidently parse row
+1010,UNC10225031A,"['UNC10225031A', 'CNc1nccc(n1)-c1c(ncn1CCCN1CCOCC1)-c1ccc(F)cc1', '3', 'RSK4(Kin.DoRmP.2S6-CK-Ate6rmin>al)', '10000', '', '']",Could not confidently parse row
+1019,UNC10225035A,"['UNC10225035A', 'Cn1cncc1-c1cc2c(Nc3ccc(OCc4ccccc4)cc3)ncnc2cn1', '12', 'TYK2(JH1domTYaKin2-catalytic>)', '10000', '', '']",Could not confidently parse row
+1034,UNC10225042A,"['UNC10225042A', 'COc1ccc2nc(nc(Nc3ccncc3)c2c1)-c1cccc(C)n1', '6', 'JAK1(JH2domJAaKin1-pseudok=inase)', '260', '', '']",Could not confidently parse row
+1041,UNC10225042A,"['UNC10225042A', 'COc1ccc2nc(nc(Nc3ccncc3)c2c1)-c1cccc(C)n1', '6', 'TYK2(JH2domTYaKin2-pseudok=inase)', '2000', '', '']",Could not confidently parse row
+1059,UNC10225052A,"['UNC10225052A', 'c(OC)c1OC', '5', 'JAK2(JH1domJAaKin2-catalytic=)', '47', '', '']",Could not confidently parse row
+1067,UNC10225052A,"['UNC10225052A', 'c(OC)c1OC', '5', 'TYK2(JH1domTYaKin2-catalytic=)', '1500', '', '']",Could not confidently parse row
+1102,UNC10225060A,"['UNC10225060A', 'CC(=O)Nc1n[nH]c2ncc(cc12)-c1ccccc1', '4', 'JAK1(JH2domJAaKin1-pseudok=inase)', '380', '', '']",Could not confidently parse row
+1106,UNC10225060A,"['UNC10225060A', 'CC(=O)Nc1n[nH]c2ncc(cc12)-c1ccccc1', '4', 'RSK1(Kin.DoRmP.2S6-CK-Ate1rmin>al)', '10000', '', '']",Could not confidently parse row
+1108,UNC10225060A,"['UNC10225060A', 'CC(=O)Nc1n[nH]c2ncc(cc12)-c1ccccc1', '4', 'TYK2(JH2domTYaKin2-pseudok=inase)', '580', '', '']",Could not confidently parse row
+1109,UNC10225061A,"['UNC10225061A', 'COc1cccc(c1)C1=C(Nc2cccc(c2)C(O)=O)C(=O)NC1=O', '2', 'JAK3(JH1domJAaKin3-catalytic=)', '480', '', '']",Could not confidently parse row
+1122,UNC10225070A,"['UNC10225070A', 'Nc1n[nH]c2cc(ccc12)-c1cccc(N)n1', '2', 'JAK2(JH1domJAaKin2-catalytic>)', '10000', '', '']",Could not confidently parse row
+1138,UNC10225080A,"['UNC10225080A', '(OC)c1OC', '2', 'JAK2(JH1domJAaKin2-catalytic=)', '140', '', '']",Could not confidently parse row
+1176,UNC10225093A,"['UNC10225093A', '1', '3', 'JAK2(JH1domJAaKin2-catalytic=)', '1800', '', '']",Could not confidently parse row
+1194,UNC10225097A,"['UNC10225097A', 'Cc1cccc2c(c(nn12)-c1ccc(F)cc1)-c1ccncn1', '6', 'RSK4(Kin.DoRmP.2S6-CK-Ate6rmin=al)', '6800', '', '']",Could not confidently parse row
+1203,UNC10225101A,"['UNC10225101A', 'Fc1cccc(COc2ccc(Nc3ncnc4sc(cc34)-c3ccc[nH]3)cc2Cl)c1', '15', 'JAK2(JH1domJAaKin2-catalytic>)', '10000', '', '']",Could not confidently parse row
+1206,UNC10225101A,"['UNC10225101A', 'Fc1cccc(COc2ccc(Nc3ncnc4sc(cc34)-c3ccc[nH]3)cc2Cl)c1', '15', 'RPS6KA5(KinR.DPSo6mK.A15-N-te>rminal)', '10000', '', '']",Could not confidently parse row
+1223,UNC10225109A,"['UNC10225109A', 'COc1cc(Nc2ccnc3ccc(cc23)C(F)(F)F)cc(OC)c1OC', '2', 'JAK3(JH1domJAaKin3-catalytic>)', '10000', '', '']",Could not confidently parse row
+1225,UNC10225109A,"['UNC10225109A', 'COc1cc(Nc2ccnc3ccc(cc23)C(F)(F)F)cc(OC)c1OC', '2', 'RSK2(Kin.DoRmP.1S6-NK-At3ermin>al)', '10000', '', '']",Could not confidently parse row
+1284,UNC10225123A,"['UNC10225123A', 'Cn1cnc2c(N)ncnc12', '9', 'RSK1(Kin.DoRmP.2S6-CK-Ate1rmin>al)', '10000', '', '']",Could not confidently parse row
+1297,UNC10225126A,"['UNC10225126A', 'Cc1csc(n1)-c1nc(Nc2ccncc2)c2ccccc2n1', '3', 'TYK2(JH1domTYaKin2-catalytic>)', '10000', '', '']",Could not confidently parse row
+1298,UNC10225126A,"['UNC10225126A', 'Cc1csc(n1)-c1nc(Nc2ccncc2)c2ccccc2n1', '3', 'TYK2(JH2domTYaKin2-pseudok=inase)', '530', '', '']",Could not confidently parse row
+1307,UNC10225129A,"['UNC10225129A', ')cc1', '2', 'RSK2(Kin.DoRmP.2S6-CK-Ate3rmin>al)', '10000', '', '']",Could not confidently parse row
+1318,UNC10225134A,"['UNC10225134A', 'O)cc2)cc1', '6', 'JAK2(JH1domJAaKin2-catalytic=)', '38', '', '']",Could not confidently parse row
+1326,UNC10225134A,"['UNC10225134A', 'O)cc2)cc1', '6', 'TYK2(JH1domTYaKin2-catalytic=)', '86', '', '']",Could not confidently parse row
+1385,UNC10225148A,"['UNC10225148A', 'c1ccc2c(N)n[nH]c2c1', '6', 'RSK2(Kin.DoRmP.2S6-CK-Ate3rmin>al)', '10000', '', '']",Could not confidently parse row
+1388,UNC10225149A,"['UNC10225149A', 'Nc1nc(N)c2nc([nH]c2n1)-c1ccccc1', '0', 'JAK1(JH2domJAaKin1-pseudok=inase)', '150', '', '']",Could not confidently parse row
+1425,UNC10225162A,"['UNC10225162A', ')cc1', '7', 'RSK2(Kin.DoRmP.2S6-CK-Ate3rmin>al)', '10000', '', '']",Could not confidently parse row
+1437,UNC10225163A,"['UNC10225163A', 'Fc1ccc(cc1)-c1nc2SCCn2c1-c1ccncc1', '8', 'RSK4(Kin.DoRmP.2S6-CK-Ate6rmin=al)', '260', '', '']",Could not confidently parse row
+1535,UNC10225189A,"['UNC10225189A', 'Fc1cc(Cl)ccc1Nc1ccnc2cc(I)ccc12', '0', 'RSK4(Kin.DoRmP.2S6-CK-Ate6rmin=al)', '730', '', '']",Could not confidently parse row
+1628,UNC10225220A,"['UNC10225220A', 'Fc1cc(Cl)ccc1Nc1ccnc2cc(ccc12)-c1ccc(CN2CCCCC2)o1', '8', 'RSK4(Kin.DoRmP.2S6-CK-Ate6rmin=al)', '670', '', '']",Could not confidently parse row
+1645,UNC10225227A,"['UNC10225227A', '(Oc2nccc(n2)-c2c(ncn2C2CCNCC2)-c2ccc(F)cc2)c1', '4', 'JAK1(JH1domJAaKin1-catalytic>)', '10000', '', '']",Could not confidently parse row
+1693,UNC10225238A,"['UNC10225238A', 'Cl.Cc1cnc(N)c(\\C=C\\c2cncc(c2)C(=O)NCCc2ccc(Cl)cc2Cl)c1', '6', 'CDK11 CDK19', '=', '410', '']",Could not confidently parse row
+1695,UNC10225238A,"['UNC10225238A', 'Cl.Cc1cnc(N)c(\\C=C\\c2cncc(c2)C(=O)NCCc2ccc(Cl)cc2Cl)c1', '6', 'CDK8 CDK8', '=', '1100', '']",Could not confidently parse row
+1697,UNC10225238A,"['UNC10225238A', 'Cl.Cc1cnc(N)c(\\C=C\\c2cncc(c2)C(=O)NCCc2ccc(Cl)cc2Cl)c1', '6', 'KIT KIT', '=', '150', '']",Could not confidently parse row
+1699,UNC10225238A,"['UNC10225238A', 'Cl.Cc1cnc(N)c(\\C=C\\c2cncc(c2)C(=O)NCCc2ccc(Cl)cc2Cl)c1', '6', 'PDGFRA PDGFRA', '=', '39', '']",Could not confidently parse row
+1701,UNC10225238A,"['UNC10225238A', 'Cl.Cc1cnc(N)c(\\C=C\\c2cncc(c2)C(=O)NCCc2ccc(Cl)cc2Cl)c1', '6', 'PDGFRB PDGFRB', '=', '140', '']",Could not confidently parse row
+1702,UNC10225239A,"['UNC10225239A', 'Cc1cccc(n1)-c1nc(Nc2ccc3[nH]nnc3c2)c2ccccc2n1', '2', 'CSNK2A1 CSNK2A1', '=', '770', '']",Could not confidently parse row
+1703,UNC10225239A,"['UNC10225239A', 'Cc1cccc(n1)-c1nc(Nc2ccc3[nH]nnc3c2)c2ccccc2n1', '2', 'PRKD1 PRKD1', '=', '61', '']",Could not confidently parse row
+1704,UNC10225239A,"['UNC10225239A', 'Cc1cccc(n1)-c1nc(Nc2ccc3[nH]nnc3c2)c2ccccc2n1', '2', 'PRKD2 PRKD2', '=', '83', '']",Could not confidently parse row
+1706,UNC10225240A,"['UNC10225240A', ')cc2)n1', '3', 'CHEK1 CHEK1', '>', '10000', '']",Could not confidently parse row
+1708,UNC10225240A,"['UNC10225240A', ')cc2)n1', '3', 'GRK1 GRK1', '>', '10000', '']",Could not confidently parse row
+1710,UNC10225240A,"['UNC10225240A', ')cc2)n1', '3', 'PRKD3 PRKD3', '>', '10000', '']",Could not confidently parse row
+1712,UNC10225240A,"['UNC10225240A', ')cc2)n1', '3', 'TRKA NTRK1', '=', '1500', '']",Could not confidently parse row
+1714,UNC10225240A,"['UNC10225240A', ')cc2)n1', '3', 'YSK4 MAP3K19', '=', '1400', '']",Could not confidently parse row
+1715,UNC10225241A,"['UNC10225241A', 'FC(F)(F)c1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1', '4', 'DAPK3 DAPK3', '>', '10000', '']",Could not confidently parse row
+1716,UNC10225241A,"['UNC10225241A', 'FC(F)(F)c1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1', '4', 'EIF2AK1 EIF2AK1', '>', '10000', '']",Could not confidently parse row
+1717,UNC10225241A,"['UNC10225241A', 'FC(F)(F)c1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1', '4', 'SNRK SNRK', '>', '10000', '']",Could not confidently parse row
+1718,UNC10225241A,"['UNC10225241A', 'FC(F)(F)c1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1', '4', 'TGFBR1 TGFBR1', '=', '220', '']",Could not confidently parse row
+1719,UNC10225241A,"['UNC10225241A', 'FC(F)(F)c1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1', '4', 'YANK1 STK32A', '>', '10000', '']",Could not confidently parse row
+1720,UNC10225242A,"['UNC10225242A', 'CN1C(=O)C(Nc2ccccc2)=C(C1=O)c1ccccc1', '1', 'MAST1 MAST1', '>', '10000', '']",Could not confidently parse row
+1721,UNC10225243A,"['UNC10225243A', 'Cc1ccccc1-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1', '1', 'CHEK1 CHEK1', '>', '10000', '']",Could not confidently parse row
+1722,UNC10225243A,"['UNC10225243A', 'Cc1ccccc1-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1', '1', 'p38-alpha MAPK14', '=', '130', '']",Could not confidently parse row
+1723,UNC10225243A,"['UNC10225243A', 'Cc1ccccc1-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1', '1', 'PRKD3 PRKD3', '>', '10000', '']",Could not confidently parse row
+1724,UNC10225244A,"['UNC10225244A', 'COc1ccc(cc1)C1=C(Nc2cccc(c2)C(O)=O)C(=O)NC1=O', '2', 'ACVR1 ACVR1', '>', '10000', '']",Could not confidently parse row
+1725,UNC10225244A,"['UNC10225244A', 'COc1ccc(cc1)C1=C(Nc2cccc(c2)C(O)=O)C(=O)NC1=O', '2', 'LIMK1 LIMK1', '>', '10000', '']",Could not confidently parse row
+1727,UNC10225245A,"['UNC10225245A', 'C)nc(Nc2cccc(c2)C#N)n1', '3', 'PIK3CB PIK3CB', '>', '10000', '']",Could not confidently parse row
+1728,UNC10225247A,"['UNC10225247A', 'CCCCc1nn2ncccc2c1-c1ccnc(NC2CC2)n1', '4', 'BUB1 BUB1', '=', '3300', '']",Could not confidently parse row
+1729,UNC10225247A,"['UNC10225247A', 'CCCCc1nn2ncccc2c1-c1ccnc(NC2CC2)n1', '4', 'CLK3 CLK3', '>', '10000', '']",Could not confidently parse row
+1730,UNC10225247A,"['UNC10225247A', 'CCCCc1nn2ncccc2c1-c1ccnc(NC2CC2)n1', '4', 'CSNK1D CSNK1D', '=', '480', '']",Could not confidently parse row
+1731,UNC10225247A,"['UNC10225247A', 'CCCCc1nn2ncccc2c1-c1ccnc(NC2CC2)n1', '4', 'CSNK1E CSNK1E', '=', '2900', '']",Could not confidently parse row
+1732,UNC10225247A,"['UNC10225247A', 'CCCCc1nn2ncccc2c1-c1ccnc(NC2CC2)n1', '4', 'JNK2 MAPK9', '=', '1300', '']",Could not confidently parse row
+1733,UNC10225247A,"['UNC10225247A', 'CCCCc1nn2ncccc2c1-c1ccnc(NC2CC2)n1', '4', 'JNK3 MAPK10', '=', '740', '']",Could not confidently parse row
+1735,UNC10225251A,"['UNC10225251A', 'c1ccccn1', '1', 'ACVR1B ACVR1B', '=', '180', '']",Could not confidently parse row
+1737,UNC10225251A,"['UNC10225251A', 'c1ccccn1', '1', 'TGFBR1 TGFBR1', '=', '150', '']",Could not confidently parse row
+1739,UNC10225251A,"['UNC10225251A', 'c1ccccn1', '1', 'TGFBR2 TGFBR2', '=', '210', '']",Could not confidently parse row
+1740,UNC10225252A,"['UNC10225252A', 'Oc1ccc(NC2=C(C(=O)NC2=O)c2ccc(Cl)cc2)cc1Cl', '0', 'PCTK2 CDK17', '>', '10000', '']",Could not confidently parse row
+1741,UNC10225255A,"['UNC10225255A', 'Clc1ccccc1C1=C(N2CCc3ccccc23)C(=O)NC1=O', '10', 'ABL1-phosphAoBrLy1lated', '>', '10000', '']",Could not confidently parse row
+1742,UNC10225255A,"['UNC10225255A', 'Clc1ccccc1C1=C(N2CCc3ccccc23)C(=O)NC1=O', '10', 'BMPR2 BMPR2', '>', '10000', '']",Could not confidently parse row
+1743,UNC10225255A,"['UNC10225255A', 'Clc1ccccc1C1=C(N2CCc3ccccc23)C(=O)NC1=O', '10', 'HASPIN GSG2', '>', '10000', '']",Could not confidently parse row
+1744,UNC10225255A,"['UNC10225255A', 'Clc1ccccc1C1=C(N2CCc3ccccc23)C(=O)NC1=O', '10', 'IKK-alpha CHUK', '>', '10000', '']",Could not confidently parse row
+1745,UNC10225255A,"['UNC10225255A', 'Clc1ccccc1C1=C(N2CCc3ccccc23)C(=O)NC1=O', '10', 'LTK LTK', '>', '10000', '']",Could not confidently parse row
+1746,UNC10225255A,"['UNC10225255A', 'Clc1ccccc1C1=C(N2CCc3ccccc23)C(=O)NC1=O', '10', 'MST1 STK4', '>', '10000', '']",Could not confidently parse row
+1782,UNC10225260A,"['UNC10225260A', 'NC(=O)c1sc(cc1OCc1ccccc1F)-n1cnc2ccccc12', '9', 'RSK4(Kin.DoRmP.2S6-CK-Ate6rmin=al)', '670', '', '']",Could not confidently parse row
+1791,UNC10225261A,"['UNC10225261A', 'Cl.COc1cc2ncnc(Nc3ccc(OCc4ccccc4Br)c(Cl)c3)c2cc1OC', '17', 'RSK3(Kin.DoRmP.1S6-NK-At2ermin>al)', '10000', '', '']",Could not confidently parse row
+1815,UNC10225267A,"['UNC10225267A', 'COc1cccc(c1)C1=C(Nc2cc(Cl)c(O)c(Cl)c2)C(=O)NC1=O', '10', 'JAK3(JH1domJAaKin3-catalytic=)', '120', '', '']",Could not confidently parse row
+1830,UNC10225268A,"['UNC10225268A', '2)c1', '5', 'JAK2(JH1domJAaKin2-catalytic=)', '400', '', '']",Could not confidently parse row
+1856,UNC10225271A,"['UNC10225271A', 'CCOCC1', '9', 'PDGFRB PDGFRB', '=', '560', '']",Could not confidently parse row
+1858,UNC10225271A,"['UNC10225271A', 'CCOCC1', '9', 'PDPK1 PDPK1', '>', '10000', '']",Could not confidently parse row
+1860,UNC10225271A,"['UNC10225271A', 'CCOCC1', '9', 'PKAC-alphaPRKACA', '>', '10000', '']",Could not confidently parse row
+1862,UNC10225271A,"['UNC10225271A', 'CCOCC1', '9', 'RET RET', '=', '110', '']",Could not confidently parse row
+1864,UNC10225271A,"['UNC10225271A', 'CCOCC1', '9', 'SRC SRC', '=', '4800', '']",Could not confidently parse row
+1865,UNC10225274A,"['UNC10225274A', 'CNc1nccc(n1)-c1c(ncn1C1CCN(C)CC1)-c1ccc(F)cc1', '4', 'CSNK1A1 CSNK1A1', '=', '24', '']",Could not confidently parse row
+1866,UNC10225274A,"['UNC10225274A', 'CNc1nccc(n1)-c1c(ncn1C1CCN(C)CC1)-c1ccc(F)cc1', '4', 'CSNK1D CSNK1D', '=', '5.7', '']",Could not confidently parse row
+1867,UNC10225274A,"['UNC10225274A', 'CNc1nccc(n1)-c1c(ncn1C1CCN(C)CC1)-c1ccc(F)cc1', '4', 'CSNK1E CSNK1E', '=', '17', '']",Could not confidently parse row
+1868,UNC10225274A,"['UNC10225274A', 'CNc1nccc(n1)-c1c(ncn1C1CCN(C)CC1)-c1ccc(F)cc1', '4', 'GRK2 ADRBK1', '>', '10000', '']",Could not confidently parse row
+1869,UNC10225274A,"['UNC10225274A', 'CNc1nccc(n1)-c1c(ncn1C1CCN(C)CC1)-c1ccc(F)cc1', '4', 'NLK NLK', '=', '130', '']",Could not confidently parse row
+1870,UNC10225274A,"['UNC10225274A', 'CNc1nccc(n1)-c1c(ncn1C1CCN(C)CC1)-c1ccc(F)cc1', '4', 'p38-alpha MAPK14', '=', '53', '']",Could not confidently parse row
+1871,UNC10225274A,"['UNC10225274A', 'CNc1nccc(n1)-c1c(ncn1C1CCN(C)CC1)-c1ccc(F)cc1', '4', 'PIP5K2C PIP4K2C', '=', '39', '']",Could not confidently parse row
+1873,UNC10225278A,"['UNC10225278A', '2)cc1', '1', 'DYRK1B DYRK1B', '>', '10000', '']",Could not confidently parse row
+1875,UNC10225278A,"['UNC10225278A', '2)cc1', '1', 'WNK4 WNK4', '>', '10000', '']",Could not confidently parse row
+1877,UNC10225279B,"['UNC10225279B', 'c1ccc2ncnc(Nc3ccc(OCc4ccccc4)c(Cl)c3)c2c1', '17', 'CHEK1 CHEK1', '>', '10000', '']",Could not confidently parse row
+1879,UNC10225279B,"['UNC10225279B', 'c1ccc2ncnc(Nc3ccc(OCc4ccccc4)c(Cl)c3)c2c1', '17', 'DDR1 DDR1', '>', '10000', '']",Could not confidently parse row
+1881,UNC10225279B,"['UNC10225279B', 'c1ccc2ncnc(Nc3ccc(OCc4ccccc4)c(Cl)c3)c2c1', '17', 'EGFR EGFR', '=', '1.4', '']",Could not confidently parse row
+1883,UNC10225279B,"['UNC10225279B', 'c1ccc2ncnc(Nc3ccc(OCc4ccccc4)c(Cl)c3)c2c1', '17', 'ERBB2 ERBB2', '=', '4', '']",Could not confidently parse row
+1885,UNC10225279B,"['UNC10225279B', 'c1ccc2ncnc(Nc3ccc(OCc4ccccc4)c(Cl)c3)c2c1', '17', 'ERBB4 ERBB4', '=', '69', '']",Could not confidently parse row
+1887,UNC10225279B,"['UNC10225279B', 'c1ccc2ncnc(Nc3ccc(OCc4ccccc4)c(Cl)c3)c2c1', '17', 'GRK3 ADRBK2', '>', '10000', '']",Could not confidently parse row
+1889,UNC10225279B,"['UNC10225279B', 'c1ccc2ncnc(Nc3ccc(OCc4ccccc4)c(Cl)c3)c2c1', '17', 'MEK5 MAP2K5', '=', '700', '']",Could not confidently parse row
+1891,UNC10225279B,"['UNC10225279B', 'c1ccc2ncnc(Nc3ccc(OCc4ccccc4)c(Cl)c3)c2c1', '17', 'MLCK MYLK3', '>', '10000', '']",Could not confidently parse row
+1893,UNC10225279B,"['UNC10225279B', 'c1ccc2ncnc(Nc3ccc(OCc4ccccc4)c(Cl)c3)c2c1', '17', 'PRKD3 PRKD3', '>', '10000', '']",Could not confidently parse row
+1895,UNC10225285A,"['UNC10225285A', 'c1ccc(cc1)C(=O)Nc1ccc(NS(C)(=O)=O)cc1', '1', 'p38-alpha MAPK14', '=', '140', '']",Could not confidently parse row
+1896,UNC10225286A,"['UNC10225286A', 'CSc1ccc(NC2=C(C(=O)NC2=O)c2cccc(Cl)c2)cc1', '2', 'BUB1 BUB1', '>', '10000', '']",Could not confidently parse row
+1897,UNC10225286A,"['UNC10225286A', 'CSc1ccc(NC2=C(C(=O)NC2=O)c2cccc(Cl)c2)cc1', '2', 'PIP5K1A PIP5K1A', '>', '10000', '']",Could not confidently parse row
+1899,UNC10225287A,"['UNC10225287A', 'n1cnc2ccc(NC(=O)NC(C)(C)C)cc12)c1ccccc1Cl', '2', 'PLK1 PLK1', '=', '7.3', '']",Could not confidently parse row
+1901,UNC10225287A,"['UNC10225287A', 'n1cnc2ccc(NC(=O)NC(C)(C)C)cc12)c1ccccc1Cl', '2', 'PLK2 PLK2', '=', '77', '']",Could not confidently parse row
+1903,UNC10225287A,"['UNC10225287A', 'n1cnc2ccc(NC(=O)NC(C)(C)C)cc12)c1ccccc1Cl', '2', 'PLK3 PLK3', '=', '150', '']",Could not confidently parse row
+1904,UNC10225289A,"['UNC10225289A', 'c1[nH]nc(c1-c1ccnc2ccccc12)-c1ccccn1', '1', 'TGFBR1 TGFBR1', '=', '110', '']",Could not confidently parse row
+1906,UNC10225291A,"['UNC10225291A', 'c1ccccc1C(C)C', '3', 'BUB1 BUB1', '=', '470', '']",Could not confidently parse row
+1908,UNC10225291A,"['UNC10225291A', 'c1ccccc1C(C)C', '3', 'DDR1 DDR1', '=', '330', '']",Could not confidently parse row
+1910,UNC10225291A,"['UNC10225291A', 'c1ccccc1C(C)C', '3', 'JAK2(JH1domJAaKin2-catalytic>)', '10000', '', '']",Could not confidently parse row
+1935,UNC10225298A,"['UNC10225298A', 'c2c(Cl)cccc2Cl)c1', '5', 'RSK1(Kin.DoRmP.2S6-CK-Ate1rmin>al)', '10000', '', '']",Could not confidently parse row
+1951,UNC10225301A,"['UNC10225301A', 'Nc1nc(c(s1)-c1ccnc2ccccc12)-c1ccccc1F', '6', 'RSK2(Kin.DoRmP.2S6-CK-Ate3rmin=al)', '790', '', '']",Could not confidently parse row
+1952,UNC10225301A,"['UNC10225301A', 'Nc1nc(c(s1)-c1ccnc2ccccc12)-c1ccccc1F', '6', 'RSK4(Kin.DoRmP.2S6-CK-Ate6rmin=al)', '28', '', '']",Could not confidently parse row
+1962,UNC10225303A,"['UNC10225303A', 'COc1ccc(cc1)C1=C(Nc2cccc(Cl)c2)C(=O)NC1=O', '8', 'JAK1(JH1domJAaKin1-catalytic>)', '10000', '', '']",Could not confidently parse row
+2001,UNC10225329A,"['UNC10225329A', 'Cn1cncc1C(=O)NC1CCN(C1)c1ccnc(Nc2ccc(F)cc2)n1', '10', 'JAK2(JH1domJAaKin2-catalytic=)', '1500', '', '']",Could not confidently parse row
+2033,UNC10225334A,"['UNC10225334A', 'COc1ccc(cc1)-c1nc2CCCn2c1-c1ccncc1', '1', 'RSK1(Kin.DoRmP.2S6-CK-Ate1rmin=al)', '440', '', '']",Could not confidently parse row
+2061,UNC10225343A,"['UNC10225343A', 'Fc1ccc(Cn2ccn3c2nc(cc3=O)N2CCOCC2)cc1Cl', '3', 'JAK2(JH1domJAaKin2-catalytic>)', '10000', '', '']",Could not confidently parse row
+2078,UNC10225352A,"['UNC10225352A', 'c1cccc(c1)C(F)(F)F', '3', 'RSK4(Kin.DoRmP.2S6-CK-Ate6rmin=al)', '2700', '', '']",Could not confidently parse row
+2120,UNC10225362A,"['UNC10225362A', 'CC(C)(C)n1cnc2c(N)ncnc12', '1', 'RSK1(Kin.DoRmP.2S6-CK-Ate1rmin>al)', '10000', '', '']",Could not confidently parse row
+2138,UNC10225367A,"['UNC10225367A', 'CC(C)(C)c1ccc(cc1)-n1cnc2c(N)ncnc12', '3', 'JAK1(JH2domJAaKin1-pseudok=inase)', '250', '', '']",Could not confidently parse row
+2155,UNC10225373A,"['UNC10225373A', 'Oc1c(Cl)cc(NC2=C(C(=O)NC2=O)c2ccccc2)cc1Cl', '1', 'JAK3(JH1domJAaKin3-catalytic=)', '380', '', '']",Could not confidently parse row
+2225,UNC10225391A,"['UNC10225391A', 'C)c3)n2)cc1', '5', 'JAK2(JH1domJAaKin2-catalytic=)', '350', '', '']",Could not confidently parse row
+2278,UNC10225417A,"['UNC10225417A', 'CSc1nn2c(nc(cc2=O)N2CCOCC2)n1Cc1cccc(c1C)C(F)(F)F', '10', 'JAK2(JH1domJAaKin2-catalytic>)', '10000', '', '']",Could not confidently parse row
+2294,UNC10225418A,"['UNC10225418A', 'Fc1ccc(cc1)-c1nc[nH]c1-c1ccncc1', '7', 'RSK4(Kin.DoRmP.2S6-CK-Ate6rmin=al)', '310', '', '']",Could not confidently parse row
+2307,UNC10225429A,"['UNC10225429A', 'Nc1nc(-c2nccs2)c(s1)-c1ccnc2ccccc12', '2', 'RSK2(Kin.DoRmP.2S6-CK-Ate3rmin>al)', '10000', '', '']",Could not confidently parse row
+2311,UNC10225431A,"['UNC10225431A', 'COc1ccc(cc1)-c1oc2ncnc(N)c2c1-c1ccc(OC)cc1', '5', 'TYK2(JH2domTYaKin2-pseudok=inase)', '1600', '', '']",Could not confidently parse row
+2398,UNC10225454A,"['UNC10225454A', 'COc1cccc(c1)-n1cnc2c(N)ncnc12', '1', 'TYK2(JH1domTYaKin2-catalytic>)', '10000', '', '']",Could not confidently parse row
+2409,UNC10225455A,"['UNC10225455A', 'Brc1cc2c(NC(=O)C3CC3)n[nH]c2nc1-c1cccs1', '11', 'RSK4(Kin.DoRmP.1S6-NK-At6ermin=al)', '3800', '', '']",Could not confidently parse row
+2414,UNC10225462A,"['UNC10225462A', 'O=S(=O)(N1CCCC1)c1ccc(cc1)-c1ccnc2[nH]ccc12', '1', 'JAK2(JH1domJAaKin2-catalytic=)', '360', '', '']",Could not confidently parse row
+2436,UNC10225464A,"['UNC10225464A', 'Clc1ccc(cc1)C1=C(Nc2cccc(Cl)c2)C(=O)NC1=O', '6', 'RPS6KA4(KinR.DPSo6mK.A14-N-te>rminal)', '10000', '', '']",Could not confidently parse row
+2443,UNC10225468A,"['UNC10225468A', 'Nc1n[nH]c2ncc(cc12)-c1ccccc1', '2', 'TYK2(JH2domTYaKin2-pseudok=inase)', '950', '', '']",Could not confidently parse row
+2462,UNC10225482A,"['UNC10225482A', 'Cl.Oc1ccc(cc1)-c1nc([nH]c1-c1ccncc1)-c1ccccc1', '4', 'TYK2(JH1domTYaKin2-catalytic>)', '10000', '', '']",Could not confidently parse row
+2467,UNC10225488A,"['UNC10225488A', 'Cl.C(c1ccccc1)n1ccc2cc(Nc3ncnc4ccccc34)ccc12', '9', 'JAK2(JH1domJAaKin2-catalytic>)', '10000', '', '']",Could not confidently parse row
+2490,UNC10225492A,"['UNC10225492A', 'Fc1ccc(Nc2nccc(NCCNC(=O)Nc3ccc4OCOc4c3)n2)cc1', '4', 'JAK2(JH1domJAaKin2-catalytic=)', '2000', '', '']",Could not confidently parse row
+2501,UNC10225493A,"['UNC10225493A', 'Cl.Cc1nccc(n1)-c1c(ncn1CCCN1CCOCC1)-c1ccc(F)cc1', '9', 'RPS6KA4(KinR.DPSo6mK.A14-N-te>rminal)', '10000', '', '']",Could not confidently parse row
+2527,UNC10243861A,"['UNC10243861A', 'Cc1c(Cn2ccn3c2nc(cc3=O)N2CCOCC2)cccc1C(F)(F)F', '3', 'JAK1(JH1domJAaKin1-catalytic>)', '10000', '', '']",Could not confidently parse row
+2541,UNC10243863A,"['UNC10243863A', 'Nc1ncnc2[nH]c(nc12)-c1ccccc1', '11', 'TYK2(JH2domTYaKin2-pseudok=inase)', '96', '', '']",Could not confidently parse row

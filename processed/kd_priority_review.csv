@@ -1,0 +1,600 @@
+Compound Name,Smiles,"DiscoveRx
+%Inh >90  Gene
+Symbol","Entrez Gene
+Symbol",Modifier,Kd (nM),source_sheet,source_row
+GW857175,Cc1cccc(n1)-c1nc(Nc2ccc3[nH]ncc3c2)c2ccccc2n1,7  JAK1(JH2do JAK1,,=,650.0,Table 1,35
+"PFE-PKIS 25
+PFE-PKIS 25","NC=N2
+CN([C@H]1CN(C(CC#N)=O)CC[C@H]1C)C2=C3C(NC=C3)= NC=N2","10  RSK3(Kin.DoRPS6KA2
+10  RSK4(Kin.DoRPS6KA6",,"=
+=","1300
+1400",Table 2,13
+PFE-PKIS 25,"CN([C@H]1CN(C(CC#N)=O)CC[C@H]1C)C2=C3C(NC=C3)=
+NC=N2",10  TYK2(JH1do TYK2,,=,6.9,Table 2,14
+PFE-PKIS 27,FC1=C(F)C=CC(C(NOCC2CC2)=O)=C1NC3=CC=C(I)C=C3Cl,3  ICK                 ICK,,>,10000,Table 2,15
+PFE-PKIS 27,FC1=C(F)C=CC(C(NOCC2CC2)=O)=C1NC3=CC=C(I)C=C3Cl,3  PIK4CB          PI4KB,,>,10000,Table 2,16
+"PFE-PKIS 27
+PFE-PKIS 28","FC1=C(F)C=CC(C(NOCC2CC2)=O)=C1NC3=CC=C(I)C=C3Cl
+O=C(C1=CN=C(N=C1NC2CCNCC2)NCC3=C(C=CC(Cl)=C3)Cl) NCCCN4C(CCC4)=O","3  RIPK4            RIPK4
+3  CSF1R           CSF1R",,">
+>","10000
+10000",Table 2,17
+PFE-PKIS 28,"O=C(C1=CN=C(N=C1NC2CCNCC2)NCC3=C(C=CC(Cl)=C3)Cl)
+NCCCN4C(CCC4)=O",3  CSNK1E        CSNK1E,,=,230,Table 2,18
+PFE-PKIS 28,"O=C(C1=CN=C(N=C1NC2CCNCC2)NCC3=C(C=CC(Cl)=C3)Cl)
+NCCCN4C(CCC4)=O",3  MAK              MAK,,>,10000,Table 2,19
+PFE-PKIS 28,"O=C(C1=CN=C(N=C1NC2CCNCC2)NCC3=C(C=CC(Cl)=C3)Cl)
+NCCCN4C(CCC4)=O",3  RSK1(Kin.DoRPS6KA1,,>,10000,Table 2,20
+PFE-PKIS 29,"COC(N=C1)=CC=C1C2=CC3=C(C)N=C(N)N=C3N([C@H]4CC
+[C@H](OCCO)CC4)C2=O",17  MTOR           MTOR,,=,3.3,Table 2,21
+PFE-PKIS 29,"COC(N=C1)=CC=C1C2=CC3=C(C)N=C(N)N=C3N([C@H]4CC
+[C@H](OCCO)CC4)C2=O",17  PIK3C2B       PIK3C2B,,=,1.3,Table 2,22
+PFE-PKIS 29,"COC(N=C1)=CC=C1C2=CC3=C(C)N=C(N)N=C3N([C@H]4CC
+[C@H](OCCO)CC4)C2=O",17  PIK3C2G       PIK3C2G,,=,0.92,Table 2,23
+PFE-PKIS 29,"COC(N=C1)=CC=C1C2=CC3=C(C)N=C(N)N=C3N([C@H]4CC
+[C@H](OCCO)CC4)C2=O",17  PIK3CA          PIK3CA,,=,0.45,Table 2,24
+PFE-PKIS 29,"COC(N=C1)=CC=C1C2=CC3=C(C)N=C(N)N=C3N([C@H]4CC
+[C@H](OCCO)CC4)C2=O",17  PIK3CB          PIK3CB,,=,1.7,Table 2,25
+PFE-PKIS 29,"COC(N=C1)=CC=C1C2=CC3=C(C)N=C(N)N=C3N([C@H]4CC
+[C@H](OCCO)CC4)C2=O",17  PIK3CD         PIK3CD,,=,1.6,Table 2,26
+PFE-PKIS 29,"COC(N=C1)=CC=C1C2=CC3=C(C)N=C(N)N=C3N([C@H]4CC
+[C@H](OCCO)CC4)C2=O",17  PIK3CG         PIK3CG,,=,0.27,Table 2,27
+PFE-PKIS 29,"COC(N=C1)=CC=C1C2=CC3=C(C)N=C(N)N=C3N([C@H]4CC
+[C@H](OCCO)CC4)C2=O",17  PIK4CB          PI4KB,,=,46,Table 2,28
+"PFE-PKIS 35
+PFE-PKIS 35","C)=O)C=C4 N#CC1=C(N2CCOCC2)SC(C3=NC=NN3)=C1C4=CC=C(S(=O)(
+C)=O)C=C4","16  RSK3(Kin.DoRPS6KA2
+16  RSK4(Kin.DoRPS6KA6",,">
+>","10000
+10000",Table 4,6
+PFE-PKIS 35,"N#CC1=C(N2CCOCC2)SC(C3=NC=NN3)=C1C4=CC=C(S(=O)(
+C)=O)C=C4",16  VPS34           PIK3C3,,=,110,Table 4,7
+PFE-PKIS 39,"CN(N=C1)C=C1C(C=C2)=NN3C2=NN=C3[C@@H](C)C4=CC
+=C(N=CC=C5)C5=C4",13  BRSK2           BRSK2,,>,10000,Table 4,8
+PFE-PKIS 39,"CN(N=C1)C=C1C(C=C2)=NN3C2=NN=C3[C@@H](C)C4=CC
+=C(N=CC=C5)C5=C4",13  CHEK1           CHEK1,,>,10000,Table 4,9
+PFE-PKIS 39,"CN(N=C1)C=C1C(C=C2)=NN3C2=NN=C3[C@@H](C)C4=CC
+=C(N=CC=C5)C5=C4",13  DAPK2          DAPK2,,>,10000,Table 4,10
+PFE-PKIS 39,"CN(N=C1)C=C1C(C=C2)=NN3C2=NN=C3[C@@H](C)C4=CC
+=C(N=CC=C5)C5=C4",13  DAPK3          DAPK3,,>,10000,Table 4,11
+PFE-PKIS 39,"CN(N=C1)C=C1C(C=C2)=NN3C2=NN=C3[C@@H](C)C4=CC
+=C(N=CC=C5)C5=C4",13  DDR1            DDR1,,>,10000,Table 4,12
+PFE-PKIS 39,"CN(N=C1)C=C1C(C=C2)=NN3C2=NN=C3[C@@H](C)C4=CC
+=C(N=CC=C5)C5=C4",13  EPHA1          EPHA1,,>,10000,Table 4,13
+PFE-PKIS 39,"CN(N=C1)C=C1C(C=C2)=NN3C2=NN=C3[C@@H](C)C4=CC
+=C(N=CC=C5)C5=C4",13  MAP3K4       MAP3K4,,>,10000,Table 4,14
+PFE-PKIS 39,"CN(N=C1)C=C1C(C=C2)=NN3C2=NN=C3[C@@H](C)C4=CC
+=C(N=CC=C5)C5=C4",13  MET              MET,,=,0.28,Table 4,15
+PFE-PKIS 39,"CN(N=C1)C=C1C(C=C2)=NN3C2=NN=C3[C@@H](C)C4=CC
+=C(N=CC=C5)C5=C4",13  MYO3A         MYO3A,,>,10000,Table 4,16
+PFE-PKIS 39,"CN(N=C1)C=C1C(C=C2)=NN3C2=NN=C3[C@@H](C)C4=CC
+=C(N=CC=C5)C5=C4",13  NEK4             NEK4,,>,10000,Table 4,17
+PFE-PKIS 39,"CN(N=C1)C=C1C(C=C2)=NN3C2=NN=C3[C@@H](C)C4=CC
+=C(N=CC=C5)C5=C4",13  PHKG2          PHKG2,,>,10000,Table 4,18
+PFE-PKIS 39,"CN(N=C1)C=C1C(C=C2)=NN3C2=NN=C3[C@@H](C)C4=CC
+=C(N=CC=C5)C5=C4",13  PRKD3          PRKD3,,>,10000,Table 4,19
+PFE-PKIS 39,"CN(N=C1)C=C1C(C=C2)=NN3C2=NN=C3[C@@H](C)C4=CC
+=C(N=CC=C5)C5=C4",13  TRPM6         TRPM6,,>,10000,Table 4,20
+PFE-PKIS 40,"O=C1N([C@@H]2CC[C@@H](O)CC2)C3=NC(N)=NC(C)=C3
+C=C1C4=CC=C(OC)N=C4",19  MTOR           MTOR,,=,4.8,Table 4,21
+PFE-PKIS 40,"O=C1N([C@@H]2CC[C@@H](O)CC2)C3=NC(N)=NC(C)=C3
+C=C1C4=CC=C(OC)N=C4",19  MYLK            MYLK,,>,10000,Table 4,22
+PFE-PKIS 40,"O=C1N([C@@H]2CC[C@@H](O)CC2)C3=NC(N)=NC(C)=C3
+C=C1C4=CC=C(OC)N=C4",19  p38-gamma MAPK12,,>,10000,Table 4,23
+PFE-PKIS 40,"O=C1N([C@@H]2CC[C@@H](O)CC2)C3=NC(N)=NC(C)=C3
+C=C1C4=CC=C(OC)N=C4",19  PIK3C2B       PIK3C2B,,=,2.7,Table 4,24
+PFE-PKIS 40,"O=C1N([C@@H]2CC[C@@H](O)CC2)C3=NC(N)=NC(C)=C3
+C=C1C4=CC=C(OC)N=C4",19  PIK3C2G       PIK3C2G,,=,0.46,Table 4,25
+PFE-PKIS 40,"O=C1N([C@@H]2CC[C@@H](O)CC2)C3=NC(N)=NC(C)=C3
+C=C1C4=CC=C(OC)N=C4",19  PIK3CA          PIK3CA,,=,0.34,Table 4,26
+PFE-PKIS 40,"O=C1N([C@@H]2CC[C@@H](O)CC2)C3=NC(N)=NC(C)=C3
+C=C1C4=CC=C(OC)N=C4",19  PIK3CB          PIK3CB,,=,1.7,Table 4,27
+SKF-97510,Cc1ccccc1-n1cnc2c(N)ncnc12,8  ABL1-nonphABL1,,>,10000,Table 6,8
+SKF-97510,Cc1ccccc1-n1cnc2c(N)ncnc12,8  DAPK1          DAPK1,,>,10000,Table 6,9
+SKF-97510,Cc1ccccc1-n1cnc2c(N)ncnc12,8  LCK                LCK,,>,10000,Table 6,10
+SKF-97510,Cc1ccccc1-n1cnc2c(N)ncnc12,8  RSK1(Kin.DoRPS6KA1,,>,10000,Table 6,11
+SKF-97510,Cc1ccccc1-n1cnc2c(N)ncnc12,8  SLK                SLK,,>,10000,Table 6,12
+SKF-97510,Cc1ccccc1-n1cnc2c(N)ncnc12,8  SYK                SYK,,>,10000,Table 6,13
+SKF-97510,Cc1ccccc1-n1cnc2c(N)ncnc12,8  TLK1              TLK1,,>,10000,Table 6,14
+SKF-97560,Nc1ncnc2n(cnc12)-c1cccc(F)c1,6  FGFR4           FGFR4,,>,10000,Table 6,15
+SKF-97560,Nc1ncnc2n(cnc12)-c1cccc(F)c1,6  RIPK2            RIPK2,,>,10000,Table 6,16
+"SKF-97560
+TPKI-100","Nc1ncnc2n(cnc12)-c1cccc(F)c1 COC(=O)C1=C(C2=CC=CC=C2)C2=CC(Br)=CC=C2C(=O)N1C
+C1=CC=C(C=C1)S(C)(=O)=O","6  TNNI3K         TNNI3K
+3  JNK1              MAPK8",,">
+=","10000
+480",Table 6,17
+TPKI-100,"COC(=O)C1=C(C2=CC=CC=C2)C2=CC(Br)=CC=C2C(=O)N1C
+C1=CC=C(C=C1)S(C)(=O)=O",3  JNK2              MAPK9,,=,350,Table 6,18
+TPKI-100,"COC(=O)C1=C(C2=CC=CC=C2)C2=CC(Br)=CC=C2C(=O)N1C
+C1=CC=C(C=C1)S(C)(=O)=O",3  JNK3              MAPK10,,=,73,Table 6,19
+TPKI-101,"CCC(=O)C1=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2C(=O)N1CC
+1=CC=C(C=C1)C(O)=O",3  JNK1              MAPK8,,=,66,Table 6,20
+TPKI-101,"CCC(=O)C1=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2C(=O)N1CC
+1=CC=C(C=C1)C(O)=O",3  JNK2              MAPK9,,=,77,Table 6,21
+TPKI-101,"CCC(=O)C1=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2C(=O)N1CC
+1=CC=C(C=C1)C(O)=O",3  JNK3              MAPK10,,=,12,Table 6,22
+TPKI-102,"CCC(=O)C1=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2C(=O)N1CC
+1=NN(C)C(=C1)C(=O)NC1CC1",3  JNK1              MAPK8,,=,20,Table 6,23
+TPKI-102,"CCC(=O)C1=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2C(=O)N1CC
+1=NN(C)C(=C1)C(=O)NC1CC1",3  JNK2              MAPK9,,=,10,Table 6,24
+TPKI-102,"CCC(=O)C1=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2C(=O)N1CC
+1=NN(C)C(=C1)C(=O)NC1CC1",3  JNK3              MAPK10,,=,3.8,Table 6,25
+TPKI-103,"CCC(=O)C1=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2C(=O)N1CC
+1=NN(CC(F)F)C(=C1)S(C)(=O)=O",3  JNK1              MAPK8,,=,37,Table 6,26
+TPKI-103,"CCC(=O)C1=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2C(=O)N1CC
+1=NN(CC(F)F)C(=C1)S(C)(=O)=O",3  JNK2              MAPK9,,=,33,Table 6,27
+TPKI-103,"CCC(=O)C1=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2C(=O)N1CC
+1=NN(CC(F)F)C(=C1)S(C)(=O)=O",3  JNK3              MAPK10,,=,9.2,Table 6,28
+TPKI-104,"CCC(=O)C1=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2C(=O)N1CC
+1=NN(CCC(C)(C)O)C(=C1)S(C)(=O)=O",3  JNK1              MAPK8,,=,19,Table 6,29
+TPKI-104,"CCC(=O)C1=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2C(=O)N1CC
+1=NN(CCC(C)(C)O)C(=C1)S(C)(=O)=O",3  JNK2              MAPK9,,=,15,Table 6,30
+TPKI-104,"CCC(=O)C1=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2C(=O)N1CC
+1=NN(CCC(C)(C)O)C(=C1)S(C)(=O)=O",3  JNK3              MAPK10,,=,4.6,Table 6,31
+TPKI-105,"CCC(=O)C1=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2C(=O)N1CC
+1=NN(CC(N)=O)C(=C1)S(C)(=O)=O",6  JNK1              MAPK8,,=,160,Table 6,32
+TPKI-105,"CCC(=O)C1=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2C(=O)N1CC
+1=NN(CC(N)=O)C(=C1)S(C)(=O)=O",6  JNK2              MAPK9,,=,120,Table 6,33
+TPKI-106,CCC1=NC(=C(S1)C1=CC=NC=C1)C1=CC(C)=CC=C1,4  RSK1(Kin.DoRPS6KA1,,=,250,Table 6,39
+"TPKI-106
+TPKI-107","CCC1=NC(=C(S1)C1=CC=NC=C1)C1=CC(C)=CC=C1 CCC1=NC(=C(S1)C1=CC(NC(=O)C2=CC=CC=C2)=NC=C1)C1
+=CC(C)=CC=C1","4  RSK4(Kin.DoRPS6KA6
+6  CSNK1A1      CSNK1A1",,"=
+=","120
+1400",Table 6,40
+TPKI-107,"CCC1=NC(=C(S1)C1=CC(NC(=O)C2=CC=CC=C2)=NC=C1)C1
+=CC(C)=CC=C1",6  CSNK1D        CSNK1D,,=,690,Table 6,41
+TPKI-107,"CCC1=NC(=C(S1)C1=CC(NC(=O)C2=CC=CC=C2)=NC=C1)C1
+=CC(C)=CC=C1",6  CSNK1E        CSNK1E,,=,880,Table 6,42
+TPKI-107,"CCC1=NC(=C(S1)C1=CC(NC(=O)C2=CC=CC=C2)=NC=C1)C1
+=CC(C)=CC=C1",6  EPHB6           EPHB6,,=,7600,Table 6,43
+TPKI-107,"CCC1=NC(=C(S1)C1=CC(NC(=O)C2=CC=CC=C2)=NC=C1)C1
+=CC(C)=CC=C1",6  IKK-epsilon  IKBKE,,>,10000,Table 6,44
+TPKI-107,"CCC1=NC(=C(S1)C1=CC(NC(=O)C2=CC=CC=C2)=NC=C1)C1
+=CC(C)=CC=C1",6  JNK3              MAPK10,,=,190,Table 6,45
+TPKI-107,"CCC1=NC(=C(S1)C1=CC(NC(=O)C2=CC=CC=C2)=NC=C1)C1
+=CC(C)=CC=C1",6  LATS2            LATS2,,>,10000,Table 6,46
+TPKI-107,"CCC1=NC(=C(S1)C1=CC(NC(=O)C2=CC=CC=C2)=NC=C1)C1
+=CC(C)=CC=C1",6  p38-alpha    MAPK14,,=,100,Table 6,47
+TPKI-107,"CCC1=NC(=C(S1)C1=CC(NC(=O)C2=CC=CC=C2)=NC=C1)C1
+=CC(C)=CC=C1",6  PIP5K2C       PIP4K2C,,=,4100,Table 6,48
+TPKI-108,"CCC1=NC(=C(S1)C1=CC(NCC2=CC=CC=C2)=NC=C1)C1=CC(
+C)=CC=C1",1  p38-alpha    MAPK14,,=,150,Table 6,49
+TPKI-109,"CC1=CC=CC(=C1)C1=C(SC(=N1)C1=CC=C(C=C1)S(C)(=O)=O
+)C1=CC=NC=C1",1  p38-alpha    MAPK14,,=,540,Table 6,50
+TPKI-110,"CC1=CC=CC(=C1)C1=C(SC(=N1)C1=CC=C(C=C1)S(C)(=O)=O
+)C1=CC(NCCC2=CC=CC=C2)=NC=C1",9  ABL1-nonphABL1,,=,330,Table 6,51
+TPKI-110,"CC1=CC=CC(=C1)C1=C(SC(=N1)C1=CC=C(C=C1)S(C)(=O)=O
+)C1=CC(NCCC2=CC=CC=C2)=NC=C1",9  BRAF             BRAF,,=,81,Table 6,52
+TPKI-110,"CC1=CC=CC(=C1)C1=C(SC(=N1)C1=CC=C(C=C1)S(C)(=O)=O
+)C1=CC(NCCC2=CC=CC=C2)=NC=C1",9  DDR1            DDR1,,=,230,Table 6,53
+TPKI-110,"CC1=CC=CC(=C1)C1=C(SC(=N1)C1=CC=C(C=C1)S(C)(=O)=O
+)C1=CC(NCCC2=CC=CC=C2)=NC=C1",9  KIT                 KIT,,=,120,Table 6,54
+TPKI-110,"CC1=CC=CC(=C1)C1=C(SC(=N1)C1=CC=C(C=C1)S(C)(=O)=O
+)C1=CC(NCCC2=CC=CC=C2)=NC=C1",9  p38-alpha    MAPK14,,=,1900,Table 6,55
+TPKI-110,"CC1=CC=CC(=C1)C1=C(SC(=N1)C1=CC=C(C=C1)S(C)(=O)=O
+)C1=CC(NCCC2=CC=CC=C2)=NC=C1",9  PDGFRA        PDGFRA,,=,550,Table 6,56
+TPKI-110,"CC1=CC=CC(=C1)C1=C(SC(=N1)C1=CC=C(C=C1)S(C)(=O)=O
+)C1=CC(NCCC2=CC=CC=C2)=NC=C1",9  PDGFRB        PDGFRB,,=,68,Table 6,57
+TPKI-110,"CC1=CC=CC(=C1)C1=C(SC(=N1)C1=CC=C(C=C1)S(C)(=O)=O
+)C1=CC(NCCC2=CC=CC=C2)=NC=C1",9  RAF1             RAF1,,=,150,Table 6,58
+TPKI-110,"CC1=CC=CC(=C1)C1=C(SC(=N1)C1=CC=C(C=C1)S(C)(=O)=O
+)C1=CC(NCCC2=CC=CC=C2)=NC=C1",9  VPS34           PIK3C3,,=,8400,Table 6,59
+TPKI-111,"CC(=O)NC1=NC2=CN=C(NC3=C(C)C=CC(NC(=O)C4=CC=CC(
+CCC#N)=C4)=C3)N=C2S1",11  ABL1-nonphABL1,,>,10000,Table 6,60
+TPKI-111,"CC(=O)NC1=NC2=CN=C(NC3=C(C)C=CC(NC(=O)C4=CC=CC(
+CCC#N)=C4)=C3)N=C2S1",11  BRAF             BRAF,,>,10000,Table 6,61
+TPKI-111,"CC(=O)NC1=NC2=CN=C(NC3=C(C)C=CC(NC(=O)C4=CC=CC(
+CCC#N)=C4)=C3)N=C2S1",11  CSF1R           CSF1R,,>,10000,Table 6,62
+"TPKI-39
+TPKI-39","2)=C1 O=C(NC1=CC=CC=C1)NC1=CC=CC(OC2=NN3C=CN=C3C=C
+2)=C1","10  ABL1-nonphABL1
+10  CIT                 CIT",,"=
+=","140
+1.1",Table 7,83
+TPKI-39,"O=C(NC1=CC=CC=C1)NC1=CC=CC(OC2=NN3C=CN=C3C=C
+2)=C1",10  CSF1R           CSF1R,,=,27,Table 7,84
+TPKI-39,"O=C(NC1=CC=CC=C1)NC1=CC=CC(OC2=NN3C=CN=C3C=C
+2)=C1",10  DDR1            DDR1,,=,24,Table 7,85
+TPKI-54,2(=O)=O,1  RSK4(Kin.DoRPS6KA6,,>,10000,Table 7,106
+TPKI-55,CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(Cl)C=CC2=N1,7  ASK1             MAP3K5,,=,1500,Table 7,107
+TPKI-55,CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(Cl)C=CC2=N1,7  CAMKK1       CAMKK1,,>,10000,Table 7,108
+TPKI-55,CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(Cl)C=CC2=N1,7  FYN               FYN,,>,10000,Table 7,109
+TPKI-55,CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(Cl)C=CC2=N1,7  IKK-beta       IKBKB,,>,10000,Table 7,110
+TPKI-55,CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(Cl)C=CC2=N1,7  NDR1            STK38,,>,10000,Table 7,111
+TPKI-55,CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(Cl)C=CC2=N1,7  PRKCI            PRKCI,,>,10000,Table 7,112
+"TPKI-55
+TPKI-56","CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(Cl)C=CC2=N1
+CNCC1=CN2C=C(NC(=O)C3=CC=C(C=C3)C(C)(C)C)N=C2C=C 1","7  PYK2             PTK2B
+4  CLK1              CLK1",,">
+=","10000
+7500",Table 7,113
+TPKI-56,"CNCC1=CN2C=C(NC(=O)C3=CC=C(C=C3)C(C)(C)C)N=C2C=C
+1",4  CSNK1G3     CSNK1G3,,>,10000,Table 7,114
+TPKI-56,"CNCC1=CN2C=C(NC(=O)C3=CC=C(C=C3)C(C)(C)C)N=C2C=C
+1",4  MAP3K15     MAP3K15,,=,3800,Table 7,115
+TPKI-56,"CNCC1=CN2C=C(NC(=O)C3=CC=C(C=C3)C(C)(C)C)N=C2C=C
+1",4  p38-alpha    MAPK14,,>,10000,Table 7,116
+"TPKI-57
+TPKI-58","=CC=CC=C1 CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(C=CC2=N1)C1
+=CC=CN=C1","4  RSK3(Kin.DoRPS6KA2
+6  ASK1             MAP3K5",,">
+=","10000
+64",Table 7,125
+TPKI-58,"CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(C=CC2=N1)C1
+=CC=CN=C1",6  CLK1              CLK1,,=,280,Table 7,126
+TPKI-58,"CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(C=CC2=N1)C1
+=CC=CN=C1",6  CSNK1E        CSNK1E,,=,110,Table 7,127
+TPKI-58,"CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(C=CC2=N1)C1
+=CC=CN=C1",6  KIT                 KIT,,=,320,Table 7,128
+TPKI-58,"CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(C=CC2=N1)C1
+=CC=CN=C1",6  MEK5            MAP2K5,,=,190,Table 7,129
+TPKI-58,"CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(C=CC2=N1)C1
+=CC=CN=C1",6  PDGFRB        PDGFRB,,=,220,Table 7,130
+TPKI-60,"ClC1=C(OC2=CC=C(C=C2)C#N)C=CC(NC2=NC=NC3=C2NC=
+C3)=C1",3  EGFR             EGFR,,=,97,Table 7,131
+TPKI-61,"FC1=CC(COC2=CC=C(NC3=NC=NC4=C3NC=C4)C=C2Cl)=CC
+=C1",9  EGFR             EGFR,,=,1.3,Table 7,132
+TPKI-61,"FC1=CC(COC2=CC=C(NC3=NC=NC4=C3NC=C4)C=C2Cl)=CC
+=C1",9  ERBB2           ERBB2,,=,2.2,Table 7,133
+TPKI-61,"FC1=CC(COC2=CC=C(NC3=NC=NC4=C3NC=C4)C=C2Cl)=CC
+=C1",9  ERBB4           ERBB4,,=,320,Table 7,134
+TPKI-62,"ClC1=C(OCC2=NC=CC=C2)C=CC(NC2=NC=NC3=C2NC=C3)=
+C1",6  EGFR             EGFR,,=,8.4,Table 7,135
+TPKI-62,"ClC1=C(OCC2=NC=CC=C2)C=CC(NC2=NC=NC3=C2NC=C3)=
+C1",6  ERBB2           ERBB2,,=,9,Table 7,136
+TPKI-63,"CC1=CC=C(OC2=C(C)C=C(NC3=NC=NC4=C3NC=C4)C=C2)C
+=N1",5  ERBB2           ERBB2,,=,6.5,Table 7,137
+TPKI-63,"CC1=CC=C(OC2=C(C)C=C(NC3=NC=NC4=C3NC=C4)C=C2)C
+=N1",5  FLT1              FLT1,,>,10000,Table 7,138
+TPKI-63,"CC1=CC=C(OC2=C(C)C=C(NC3=NC=NC4=C3NC=C4)C=C2)C
+=N1",5  MEK5            MAP2K5,,=,9,Table 7,139
+TPKI-63,"CC1=CC=C(OC2=C(C)C=C(NC3=NC=NC4=C3NC=C4)C=C2)C
+=N1",5  RIOK1           RIOK1,,>,10000,Table 7,140
+TPKI-64,"CN1C=CC2=C1C(NC1=CC(Cl)=C(OC3=CC=CC(Cl)=C3)C=C1)
+=NC=N2",10  EGFR             EGFR,,=,4.3,Table 7,141
+TPKI-64,"CN1C=CC2=C1C(NC1=CC(Cl)=C(OC3=CC=CC(Cl)=C3)C=C1)
+=NC=N2",10  EPHA7          EPHA7,,>,10000,Table 7,142
+TPKI-64,"CN1C=CC2=C1C(NC1=CC(Cl)=C(OC3=CC=CC(Cl)=C3)C=C1)
+=NC=N2",10  EPHA8          EPHA8,,>,10000,Table 7,143
+"TPKI-85
+TPKI-85",")=O CC1=NN=C(N1)C1=CC=C2OC=C(C2=C1)C1=CC=C(C=C1)S(C
+)=O","4  AMPK-alphaPRKAA1
+4  GSK3A          GSK3A",,">
+=","10000
+190",Table 8,77
+TPKI-85,"CC1=NN=C(N1)C1=CC=C2OC=C(C2=C1)C1=CC=C(C=C1)S(C
+)=O",4  HIPK2            HIPK2,,=,320,Table 8,78
+TPKI-85,"CC1=NN=C(N1)C1=CC=C2OC=C(C2=C1)C1=CC=C(C=C1)S(C
+)=O",4  HIPK3            HIPK3,,=,340,Table 8,79
+TPKI-85,"CC1=NN=C(N1)C1=CC=C2OC=C(C2=C1)C1=CC=C(C=C1)S(C
+)=O",4  JAK1(JH2do JAK1,,=,190,Table 8,80
+TPKI-85,"CC1=NN=C(N1)C1=CC=C2OC=C(C2=C1)C1=CC=C(C=C1)S(C
+)=O",4  LOK               STK10,,>,10000,Table 8,81
+TPKI-85,"CC1=NN=C(N1)C1=CC=C2OC=C(C2=C1)C1=CC=C(C=C1)S(C
+)=O",4  RIPK1            RIPK1,,>,10000,Table 8,82
+Cc1ccc(NC(=O)c2ccc(Cl)cc2)cc1-,,,,,,Table 9,1
+UNC10224997A,Cc1cccc(n1)-c1nc(Nc2ccnc(C)c2)c2ccccc2n1,2  JAK1(JH2do JAK1,,=,410.0,Table 9,45
+COc1ccc(Nc2nccc(n2)N2CCC(C2)NC(=O)C(C)c2ccc(Cl)cc2)c,,,,,,Table 10,1
+UNC10225031A,CNc1nccc(n1)-c1c(ncn1CCCN1CCOCC1)-c1ccc(F)cc1,3  RSK4(Kin.DoRPS6KA6,,>,10000,Table 10,78
+UNC10225035A,Cn1cncc1-c1cc2c(Nc3ccc(OCc4ccccc4)cc3)ncnc2cn1,12  CDKL1           CDKL1,,>,10000,Table 10,79
+UNC10225035A,Cn1cncc1-c1cc2c(Nc3ccc(OCc4ccccc4)cc3)ncnc2cn1,12  DRAK1          STK17A,,>,10000,Table 10,80
+UNC10225035A,Cn1cncc1-c1cc2c(Nc3ccc(OCc4ccccc4)cc3)ncnc2cn1,12  EGFR             EGFR,,=,10,Table 10,81
+UNC10225035A,Cn1cncc1-c1cc2c(Nc3ccc(OCc4ccccc4)cc3)ncnc2cn1,12  ERBB2           ERBB2,,=,17,Table 10,82
+UNC10225035A,Cn1cncc1-c1cc2c(Nc3ccc(OCc4ccccc4)cc3)ncnc2cn1,12  MEK5            MAP2K5,,=,140,Table 10,83
+UNC10225035A,Cn1cncc1-c1cc2c(Nc3ccc(OCc4ccccc4)cc3)ncnc2cn1,12  PRKG2          PRKG2,,=,3300,Table 10,84
+UNC10225035A,Cn1cncc1-c1cc2c(Nc3ccc(OCc4ccccc4)cc3)ncnc2cn1,12  RIPK2            RIPK2,,=,65,Table 10,85
+UNC10225035A,Cn1cncc1-c1cc2c(Nc3ccc(OCc4ccccc4)cc3)ncnc2cn1,12  ROCK1          ROCK1,,=,590,Table 10,86
+"UNC10225035A
+UNC10225037A","Cn1cncc1-c1cc2c(Nc3ccc(OCc4ccccc4)cc3)ncnc2cn1 C1COc2cc(Nc3nccc(n3)-c3cnn4nc(ccc34)-
+c3ccccc3)ccc2O1","12  TYK2(JH1do TYK2
+4  CSK                CSK",,">
+>","10000
+10000",Table 10,87
+UNC10225037A,"C1COc2cc(Nc3nccc(n3)-c3cnn4nc(ccc34)-
+c3ccccc3)ccc2O1",4  ERK8             MAPK15,,=,670,Table 10,88
+UNC10225037A,"C1COc2cc(Nc3nccc(n3)-c3cnn4nc(ccc34)-
+c3ccccc3)ccc2O1",4  MAK              MAK,,>,10000,Table 10,89
+UNC10225037A,"C1COc2cc(Nc3nccc(n3)-c3cnn4nc(ccc34)-
+c3ccccc3)ccc2O1",4  MET              MET,,>,10000,Table 10,90
+UNC10225037A,"C1COc2cc(Nc3nccc(n3)-c3cnn4nc(ccc34)-
+c3ccccc3)ccc2O1",4  PAK6             PAK6,,>,10000,Table 10,91
+UNC10225037A,"C1COc2cc(Nc3nccc(n3)-c3cnn4nc(ccc34)-
+c3ccccc3)ccc2O1",4  STK16           STK16,,=,620,Table 10,92
+UNC10225042A,COc1ccc2nc(nc(Nc3ccncc3)c2c1)-c1cccc(C)n1,6  ACVR1B        ACVR1B,,=,150,Table 10,93
+UNC10225042A,COc1ccc2nc(nc(Nc3ccncc3)c2c1)-c1cccc(C)n1,6  DMPK2         CDC42BPG,,=,510,Table 10,94
+UNC10225042A,COc1ccc2nc(nc(Nc3ccncc3)c2c1)-c1cccc(C)n1,6  JAK1(JH2do JAK1,,=,260,Table 10,95
+UNC10225042A,COc1ccc2nc(nc(Nc3ccncc3)c2c1)-c1cccc(C)n1,6  TYK2(JH2do TYK2,,=,2000,Table 10,102
+UNC10225052A,c(OC)c1OC,5  JAK2(JH1do JAK2,,=,47,Table 10,120
+UNC10225052A,c(OC)c1OC,5  TYK2(JH1do TYK2,,=,1500,Table 10,128
+UNC10225056A,c2cccc(NC(=O)c3cc4cc(F)ccc4[nH]3)c2)cc1,5  ABL1-nonphABL1,,=,100,Table 10,130
+UNC10225060A,CC(=O)Nc1n[nH]c2ncc(cc12)-c1ccccc1,4  RSK1(Kin.DoRPS6KA1,,>,10000,Table 10,157
+UNC10225060A,CC(=O)Nc1n[nH]c2ncc(cc12)-c1ccccc1,4  TRKA             NTRK1,,=,2500,Table 10,158
+UNC10225060A,CC(=O)Nc1n[nH]c2ncc(cc12)-c1ccccc1,4  TYK2(JH2do TYK2,,=,580,Table 10,159
+UNC10225061A,COc1cccc(c1)C1=C(Nc2cccc(c2)C(O)=O)C(=O)NC1=O,2  JAK3(JH1do JAK3,,=,480,Table 10,160
+UNC10225061A,COc1cccc(c1)C1=C(Nc2cccc(c2)C(O)=O)C(=O)NC1=O,2  PRKCI            PRKCI,,>,10000,Table 10,161
+UNC10225063A,OC(=O)c1cc(NC2=C(C(=O)NC2=O)c2ccccc2)ccc1Cl,0  NEK10           NEK10,,=,460,Table 10,162
+UNC10225065A,Oc1cccc(NC2=C(C(=O)NC2=O)c2ccccc2)c1,3  NIM1            MGC42105,,>,10000,Table 10,163
+UNC10225065A,Oc1cccc(NC2=C(C(=O)NC2=O)c2ccccc2)c1,3  PRKR             EIF2AK2,,>,10000,Table 10,164
+UNC10225065A,Oc1cccc(NC2=C(C(=O)NC2=O)c2ccccc2)c1,3  TLK2              TLK2,,=,2400,Table 10,165
+UNC10225069A,COc1cc2ncn(-c3cc(OCc4ccncc4)c(s3)C(N)=O)c2cc1OC,4  INSRR            INSRR,,>,10000,Table 10,166
+UNC10225069A,COc1cc2ncn(-c3cc(OCc4ccncc4)c(s3)C(N)=O)c2cc1OC,4  MEK5            MAP2K5,,=,670,Table 10,167
+UNC10225069A,COc1cc2ncn(-c3cc(OCc4ccncc4)c(s3)C(N)=O)c2cc1OC,4  MUSK           MUSK,,>,10000,Table 10,168
+UNC10225069A,COc1cc2ncn(-c3cc(OCc4ccncc4)c(s3)C(N)=O)c2cc1OC,4  PLK1              PLK1,,=,110,Table 10,169
+UNC10225069A,COc1cc2ncn(-c3cc(OCc4ccncc4)c(s3)C(N)=O)c2cc1OC,4  PLK2              PLK2,,=,41,Table 10,170
+UNC10225069A,COc1cc2ncn(-c3cc(OCc4ccncc4)c(s3)C(N)=O)c2cc1OC,4  TIE1               TIE1,,>,10000,Table 10,171
+UNC10225070A,Nc1n[nH]c2cc(ccc12)-c1cccc(N)n1,2  CDK7             CDK7,,>,10000,Table 10,172
+UNC10225070A,Nc1n[nH]c2cc(ccc12)-c1cccc(N)n1,2  JAK2(JH1do JAK2,,>,10000,Table 10,173
+UNC10225070A,Nc1n[nH]c2cc(ccc12)-c1cccc(N)n1,2  MYLK2          MYLK2,,=,180,Table 10,174
+UNC10225070A,Nc1n[nH]c2cc(ccc12)-c1cccc(N)n1,2  RIOK1           RIOK1,,=,390,Table 10,175
+UNC10225070A,Nc1n[nH]c2cc(ccc12)-c1cccc(N)n1,2  RIOK3           RIOK3,,=,490,Table 10,176
+UNC10225070A,Nc1n[nH]c2cc(ccc12)-c1cccc(N)n1,2  YSK4              MAP3K19,,=,130,Table 10,177
+UNC10225072A,N#Cc1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1,0  TGFBR1        TGFBR1,,=,150,Table 10,178
+UNC10225072A,N#Cc1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1,0  TGFBR2        TGFBR2,,=,580,Table 10,179
+UNC10225073A,Fc1ccc(Nc2nccc(n2)-c2c(nn3ncccc23)-c2ccc(Cl)cc2)cc1F,1  DDR1            DDR1,,=,750,Table 10,180
+UNC10225073A,Fc1ccc(Nc2nccc(n2)-c2c(nn3ncccc23)-c2ccc(Cl)cc2)cc1F,1  TNIK              TNIK,,>,10000,Table 10,181
+UNC10225073A,Fc1ccc(Nc2nccc(n2)-c2c(nn3ncccc23)-c2ccc(Cl)cc2)cc1F,1  ULK2             ULK2,,>,10000,Table 10,182
+UNC10225075A,CN(C)c1cc(nc(N)n1)-c1ccc2c(N)n[nH]c2c1,2  KIT-autoinh KIT,,>,10000,Table 10,183
+UNC10225075A,CN(C)c1cc(nc(N)n1)-c1ccc2c(N)n[nH]c2c1,2  TXK                TXK,,>,10000,Table 10,184
+"UNC10225075A
+UNC10225080A","CN(C)c1cc(nc(N)n1)-c1ccc2c(N)n[nH]c2c1 COc1cc(Nc2nccc(n2)N2CCC(C2)NC(=O)C(C)c2ccc(Cl)cc2)cc
+(OC)c1OC","2  ZAK                ZAK
+2  EPHB6           EPHB6",,">
+=","10000
+100",Table 10,185
+UNC10225080A,"COc1cc(Nc2nccc(n2)N2CCC(C2)NC(=O)C(C)c2ccc(Cl)cc2)cc
+(OC)c1OC",2  JAK2(JH1do JAK2,,=,140,Table 10,186
+UNC10225080A,"COc1cc(Nc2nccc(n2)N2CCC(C2)NC(=O)C(C)c2ccc(Cl)cc2)cc
+(OC)c1OC",2  NEK5             NEK5,,=,740,Table 10,187
+UNC10225083A,C[C@@H]1CCCCN1c1cc(nc(N)n1)-c1ccc2c(N)n[nH]c2c1,1  AURKA          AURKA,,>,10000,Table 10,188
+UNC10225083A,C[C@@H]1CCCCN1c1cc(nc(N)n1)-c1ccc2c(N)n[nH]c2c1,1  DRAK1          STK17A,,=,88,Table 10,189
+UNC10225083A,C[C@@H]1CCCCN1c1cc(nc(N)n1)-c1ccc2c(N)n[nH]c2c1,1  p38-alpha    MAPK14,,=,2100,Table 10,190
+UNC10225097A,Cc1cccc2c(c(nn12)-c1ccc(F)cc1)-c1ccncn1,6  RSK4(Kin.DoRPS6KA6,,=,6800,Table 10,228
+UNC10225099A,Cl.Cc1c(O)cccc1Nc1ccnc2ccc(cc12)C(F)(F)F,3  ACVR2B        ACVR2B,,=,240,Table 10,229
+UNC10225099A,Cl.Cc1c(O)cccc1Nc1ccnc2ccc(cc12)C(F)(F)F,3  ADCK4          ADCK4,,=,510,Table 10,230
+UNC10225099A,Cl.Cc1c(O)cccc1Nc1ccnc2ccc(cc12)C(F)(F)F,3  BRK               PTK6,,=,190,Table 10,231
+UNC10225099A,Cl.Cc1c(O)cccc1Nc1ccnc2ccc(cc12)C(F)(F)F,3  HUNK            HUNK,,>,10000,Table 10,232
+UNC10225101A,Fc1cccc(COc2ccc(Nc3ncnc4sc(cc34)-c3ccc[nH]3)cc2Cl)c1,15  JAK2(JH1do JAK2,,>,10000,Table 10,237
+UNC10225101A,Fc1cccc(COc2ccc(Nc3ncnc4sc(cc34)-c3ccc[nH]3)cc2Cl)c1,15  RPS6KA5(Ki RPS6KA5,,>,10000,Table 10,240
+UNC10225109A,COc1cc(Nc2ccnc3ccc(cc23)C(F)(F)F)cc(OC)c1OC,2  JAK3(JH1do JAK3,,>,10000,Table 10,257
+UNC10225109A,COc1cc(Nc2ccnc3ccc(cc23)C(F)(F)F)cc(OC)c1OC,2  RSK2(Kin.DoRPS6KA3,,>,10000,Table 10,259
+UNC10225123A,Cn1cnc2c(N)ncnc12,9  RSK1(Kin.DoRPS6KA1,,>,10000,Table 10,312
+UNC10225123A,Cn1cnc2c(N)ncnc12,9  VEGFR2        KDR,,>,10000,Table 10,313
+UNC10225123A,Cn1cnc2c(N)ncnc12,9  VRK2             VRK2,,>,10000,Table 10,314
+UNC10225125A,Cc1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1,2  ARK5             NUAK1,,>,10000,Table 10,315
+UNC10225125A,Cc1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1,2  GAK               GAK,,=,110,Table 10,316
+UNC10225125A,Cc1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1,2  MINK            MINK1,,=,61,Table 10,317
+UNC10225125A,Cc1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1,2  TGFBR1        TGFBR1,,=,260,Table 10,318
+UNC10225125A,Cc1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1,2  TNIK              TNIK,,=,160,Table 10,319
+UNC10225125A,Cc1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1,2  WNK4           WNK4,,>,10000,Table 10,320
+UNC10225126A,Cc1csc(n1)-c1nc(Nc2ccncc2)c2ccccc2n1,3  ACVR1B        ACVR1B,,=,39,Table 10,321
+UNC10225126A,Cc1csc(n1)-c1nc(Nc2ccncc2)c2ccccc2n1,3  HASPIN         GSG2,,=,77,Table 10,322
+UNC10225126A,Cc1csc(n1)-c1nc(Nc2ccncc2)c2ccccc2n1,3  TGFBR1        TGFBR1,,=,8.9,Table 10,323
+UNC10225126A,Cc1csc(n1)-c1nc(Nc2ccncc2)c2ccccc2n1,3  TGFBR2        TGFBR2,,=,250,Table 10,324
+UNC10225126A,Cc1csc(n1)-c1nc(Nc2ccncc2)c2ccccc2n1,3  TYK2(JH1do TYK2,,>,10000,Table 10,325
+UNC10225126A,Cc1csc(n1)-c1nc(Nc2ccncc2)c2ccccc2n1,3  TYK2(JH2do TYK2,,=,530,Table 10,326
+UNC10225127A,COc1ccc(COc2cc(sc2C(N)=O)-n2cnc3ccccc23)cc1,4  PIK3CB          PIK3CB,,>,10000,Table 10,327
+UNC10225127A,COc1ccc(COc2cc(sc2C(N)=O)-n2cnc3ccccc23)cc1,4  PLK1              PLK1,,=,37,Table 10,328
+UNC10225127A,COc1ccc(COc2cc(sc2C(N)=O)-n2cnc3ccccc23)cc1,4  PLK2              PLK2,,=,250,Table 10,329
+UNC10225127A,COc1ccc(COc2cc(sc2C(N)=O)-n2cnc3ccccc23)cc1,4  PLK3              PLK3,,=,380,Table 10,330
+"UNC10225127A
+UNC10225129A","COc1ccc(COc2cc(sc2C(N)=O)-n2cnc3ccccc23)cc1 Fc1ccc(CNc2nccc(n2)N2CCC(CC2)NC(=O)Nc2ccc3OCOc3c2
+)cc1","4  RIOK2           RIOK2
+2  MELK            MELK",,"=
+>","76
+10000",Table 10,331
+UNC10225129A,"Fc1ccc(CNc2nccc(n2)N2CCC(CC2)NC(=O)Nc2ccc3OCOc3c2
+)cc1",2  RSK2(Kin.DoRPS6KA3,,>,10000,Table 10,332
+UNC10225131A,Clc1cccc(Cn2ccn3c2nc(cc3=O)N2CCOCC2)c1,3  EPHA3          EPHA3,,>,10000,Table 10,333
+COc1cccc(CNC(=O)NC2CCN(C2)c2ccnc(Nc3ccc(F)cc3)n2)c,,,,,,Table 11,1
+UNC10225148A,c1ccc2c(N)n[nH]c2c1,6  RSK2(Kin.DoRPS6KA3,,>,10000,Table 11,22
+UNC10225149A,Nc1nc(N)c2nc([nH]c2n1)-c1ccccc1,0  JAK1(JH2do JAK1,,=,150,Table 11,25
+UNC10225156A,CCn1c(nc2cnccc12)-c1ccccn1,9  PKAC-alpha PRKACA,,>,10000,Table 11,38
+UNC10225162A,)cc1,7  RSK2(Kin.DoRPS6KA3,,>,10000,Table 11,59
+UNC10225163A,Fc1ccc(cc1)-c1nc2SCCn2c1-c1ccncc1,8  CIT                 CIT,,=,760,Table 11,60
+UNC10225163A,Fc1ccc(cc1)-c1nc2SCCn2c1-c1ccncc1,8  CSNK1A1      CSNK1A1,,=,260,Table 11,61
+UNC10225163A,Fc1ccc(cc1)-c1nc2SCCn2c1-c1ccncc1,8  CSNK1D        CSNK1D,,=,83,Table 11,62
+UNC10225163A,Fc1ccc(cc1)-c1nc2SCCn2c1-c1ccncc1,8  CSNK1E        CSNK1E,,=,180,Table 11,63
+UNC10225163A,Fc1ccc(cc1)-c1nc2SCCn2c1-c1ccncc1,8  DMPK2         CDC42BPG,,=,1200,Table 11,64
+UNC10225163A,Fc1ccc(cc1)-c1nc2SCCn2c1-c1ccncc1,8  JNK2              MAPK9,,=,270,Table 11,65
+UNC10225163A,Fc1ccc(cc1)-c1nc2SCCn2c1-c1ccncc1,8  JNK3              MAPK10,,=,57,Table 11,66
+UNC10225163A,Fc1ccc(cc1)-c1nc2SCCn2c1-c1ccncc1,8  p38-alpha    MAPK14,,=,130,Table 11,67
+UNC10225163A,Fc1ccc(cc1)-c1nc2SCCn2c1-c1ccncc1,8  PIK3C2B       PIK3C2B,,>,10000,Table 11,68
+UNC10225163A,Fc1ccc(cc1)-c1nc2SCCn2c1-c1ccncc1,8  PIK3CA          PIK3CA,,>,10000,Table 11,69
+UNC10225163A,Fc1ccc(cc1)-c1nc2SCCn2c1-c1ccncc1,8  PIK3CG         PIK3CG,,>,10000,Table 11,70
+"UNC10225163A
+UNC10225164A","Fc1ccc(cc1)-c1nc2SCCn2c1-c1ccncc1 COC(=O)c1cccc(NC(=O)NC2CCN(C2)c2ccnc(Nc3ccc(F)cc3)
+n2)c1","8  RSK4(Kin.DoRPS6KA6
+0  CDKL2           CDKL2",,"=
+=","260
+680",Table 11,71
+UNC10225164A,"COC(=O)c1cccc(NC(=O)NC2CCN(C2)c2ccnc(Nc3ccc(F)cc3)
+n2)c1",0  TRKC             NTRK3,,=,340,Table 11,72
+UNC10225165A,"Cn1cc(-
+c2ccc3N(CCc3c2)C(=O)Cc2cccc(c2)C(F)(F)F)c2c(N)ncnc12",5  DAPK3          DAPK3,,>,10000,Table 11,73
+UNC10225165A,"Cn1cc(-
+c2ccc3N(CCc3c2)C(=O)Cc2cccc(c2)C(F)(F)F)c2c(N)ncnc12",5  DDR1            DDR1,,=,280,Table 11,74
+UNC10225165A,"Cn1cc(-
+c2ccc3N(CCc3c2)C(=O)Cc2cccc(c2)C(F)(F)F)c2c(N)ncnc12",5  GRK4             GRK4,,>,10000,Table 11,75
+UNC10225165A,"Cn1cc(-
+c2ccc3N(CCc3c2)C(=O)Cc2cccc(c2)C(F)(F)F)c2c(N)ncnc12",5  KIT                 KIT,,=,5200,Table 11,76
+UNC10225165A,"Cn1cc(-
+c2ccc3N(CCc3c2)C(=O)Cc2cccc(c2)C(F)(F)F)c2c(N)ncnc12",5  MAPKAPK2  MAPKAPK2,,>,10000,Table 11,77
+UNC10225165A,"Cn1cc(-
+c2ccc3N(CCc3c2)C(=O)Cc2cccc(c2)C(F)(F)F)c2c(N)ncnc12",5  SRPK3           SRPK3,,>,10000,Table 11,78
+UNC10225167A,Clc1cccc(Cn2ccn3c2nc(cc3=O)N2CCOCC2)c1Cl,4  AXL                AXL,,>,10000,Table 11,79
+UNC10225167A,Clc1cccc(Cn2ccn3c2nc(cc3=O)N2CCOCC2)c1Cl,4  LYN                LYN,,>,10000,Table 11,80
+UNC10225167A,Clc1cccc(Cn2ccn3c2nc(cc3=O)N2CCOCC2)c1Cl,4  PIK3CB          PIK3CB,,=,3.5,Table 11,81
+UNC10225167A,Clc1cccc(Cn2ccn3c2nc(cc3=O)N2CCOCC2)c1Cl,4  PIK3CD         PIK3CD,,=,79,Table 11,82
+UNC10225167A,Clc1cccc(Cn2ccn3c2nc(cc3=O)N2CCOCC2)c1Cl,4  VPS34           PIK3C3,,=,2.1,Table 11,83
+UNC10225168A,Clc1ccccc1C1=C(Nc2ccccc2)C(=O)NC1=O,2  CSNK1G1     CSNK1G1,,>,10000,Table 11,84
+UNC10225168A,Clc1ccccc1C1=C(Nc2ccccc2)C(=O)NC1=O,2  GAK               GAK,,>,10000,Table 11,85
+UNC10225168A,Clc1ccccc1C1=C(Nc2ccccc2)C(=O)NC1=O,2  LKB1              STK11,,>,10000,Table 11,86
+UNC10225169A,c1[nH]nc(c1-c1ccnc(c1)-c1ccccc1)-c1ccccn1,1  RIPK2            RIPK2,,=,7600,Table 11,87
+UNC10225169A,c1[nH]nc(c1-c1ccnc(c1)-c1ccccc1)-c1ccccn1,1  TNNI3K         TNNI3K,,>,10000,Table 11,88
+UNC10225170A,Cl.COc1cc2nccc(Nc3cccc(Oc4ccccc4)c3)c2cc1OC,2  MEK1            MAP2K1,,=,100,Table 11,89
+UNC10225170A,Cl.COc1cc2nccc(Nc3cccc(Oc4ccccc4)c3)c2cc1OC,2  MEK2            MAP2K2,,=,270,Table 11,90
+UNC10225170A,Cl.COc1cc2nccc(Nc3cccc(Oc4ccccc4)c3)c2cc1OC,2  MEK5            MAP2K5,,=,11,Table 11,91
+UNC10225170A,Cl.COc1cc2nccc(Nc3cccc(Oc4ccccc4)c3)c2cc1OC,2  RIPK2            RIPK2,,=,440,Table 11,92
+UNC10225175A,Cc1cccc(n1)-c1nc(C)cc(Nc2ccncc2)n1,9  AAK1             AAK1,,>,10000,Table 11,93
+UNC10225175A,Cc1cccc(n1)-c1nc(C)cc(Nc2ccncc2)n1,9  CAMK1G      CAMK1G,,>,10000,Table 11,94
+UNC10225175A,Cc1cccc(n1)-c1nc(C)cc(Nc2ccncc2)n1,9  CAMK2D      CAMK2D,,>,10000,Table 11,95
+UNC10225175A,Cc1cccc(n1)-c1nc(C)cc(Nc2ccncc2)n1,9  CDC2L1         CDK11B,,>,10000,Table 11,96
+UNC10225175A,Cc1cccc(n1)-c1nc(C)cc(Nc2ccncc2)n1,9  CDK9             CDK9,,>,10000,Table 11,97
+UNC10225189A,Fc1cc(Cl)ccc1Nc1ccnc2cc(I)ccc12,0  RSK4(Kin.DoRPS6KA6,,=,730.0,Table 12,63
+COc1cccc(NC(=O)Nc2ccc(C)c(c2)-,,,,,,Table 13,1
+UNC10225212A,CN1C(=O)C(Nc2cc(Cl)c(O)c(Cl)c2)=C(C1=O)c1ccc(Cl)cc1,3  MAPKAPK2  MAPKAPK2,,>,10000.0,Table 13,34
+UNC10225220A,Fc1cc(Cl)ccc1Nc1ccnc2cc(ccc12)-c1ccc(CN2CCCCC2)o1,8  PKAC-alpha PRKACA,,>,10000.0,Table 13,45
+UNC10225220A,Fc1cc(Cl)ccc1Nc1ccnc2cc(ccc12)-c1ccc(CN2CCCCC2)o1,8  RSK4(Kin.DoRPS6KA6,,=,670.0,Table 13,46
+UNC10225260A,NC(=O)c1sc(cc1OCc1ccccc1F)-n1cnc2ccccc12,9  RSK4(Kin.DoRPS6KA6,,=,670.0,Table 13,196
+UNC10225261A,Cl.COc1cc2ncnc(Nc3ccc(OCc4ccccc4Br)c(Cl)c3)c2cc1OC,17  RSK3(Kin.DoRPS6KA2,,>,10000.0,Table 13,205
+COc1cc2c(Nc3cccc(NC(=O)c4ccccc4)c3)ncnc2cc1OCCCN1,,,,,,Table 14,1
+UNC10225271A,CCOCC1,9  PKAC-alpha PRKACA,,>,10000.0,Table 14,6
+COc1ccc2cc(ccc2c1)-c1nc([nH]c1-c1ccncc1)-,,,,,,Table 15,1
+UNC10225291A,c1ccccc1C(C)C,3  JAK2(JH1do JAK2,,>,10000.0,Table 15,2
+UNC10225298A,c2c(Cl)cccc2Cl)c1,5  RSK1(Kin.DoRPS6KA1,,>,10000.0,Table 15,27
+UNC10225301A,Nc1nc(c(s1)-c1ccnc2ccccc12)-c1ccccc1F,6  RSK2(Kin.DoRPS6KA3,,=,790.0,Table 15,43
+UNC10225301A,Nc1nc(c(s1)-c1ccnc2ccccc12)-c1ccccc1F,6  RSK4(Kin.DoRPS6KA6,,=,28.0,Table 15,44
+UNC10225303A,COc1ccc(cc1)C1=C(Nc2cccc(Cl)c2)C(=O)NC1=O,8  GCN2(Kin.D EIF2AK4,,>,10000.0,Table 15,52
+UNC10225303A,COc1ccc(cc1)C1=C(Nc2cccc(Cl)c2)C(=O)NC1=O,8  JAK1(JH1do JAK1,,>,10000.0,Table 15,54
+UNC10225322A,CC(C)c1ccc(O)cc1Nc1ccnc2ccc(cc12)C(F)(F)F,0  CDK4-cyclin CDK4,,>,10000.0,Table 15,72
+UNC10225329A,Cn1cncc1C(=O)NC1CCN(C1)c1ccnc(Nc2ccc(F)cc2)n1,10  JAK2(JH1do JAK2,,=,1500.0,Table 15,93
+CC[C@@H]1CO[C@@H](CN1c1cc(nc(NC)n1)-,,,,,,Table 16,1
+UNC10225334A,COc1ccc(cc1)-c1nc2CCCn2c1-c1ccncc1,1  RSK1(Kin.DoRPS6KA1,,=,440.0,Table 16,14
+UNC10225343A,Fc1ccc(Cn2ccn3c2nc(cc3=O)N2CCOCC2)cc1Cl,3  JAK2(JH1do JAK2,,>,10000.0,Table 16,42
+"UNC10225352A
+UNC10225352A","c1cccc(c1)C(F)(F)F
+OCCCNc1nccc(n1)-c1c(nn2cc(ccc12)C(F)(F)F)-c1cccc(c1)C(F)(F)F","3  p38-alpha    MAPK14
+3  RSK4(Kin.DoRPS6KA6",,"=
+=","1300
+2700",Table 17,3
+UNC10225352A,"OCCCNc1nccc(n1)-c1c(nn2cc(ccc12)C(F)(F)F)-
+c1cccc(c1)C(F)(F)F",3  WNK4           WNK4,,>,10000,Table 17,4
+UNC10225353A,Cc1ccc(NC(=O)Nc2cc(nn2-c2ccccc2)C(C)(C)C)cc1,13  BRSK1           BRSK1,,>,10000,Table 17,5
+UNC10225353A,Cc1ccc(NC(=O)Nc2cc(nn2-c2ccccc2)C(C)(C)C)cc1,13  DDR1            DDR1,,=,1300,Table 17,6
+UNC10225353A,Cc1ccc(NC(=O)Nc2cc(nn2-c2ccccc2)C(C)(C)C)cc1,13  DDR2            DDR2,,=,410,Table 17,7
+UNC10225353A,Cc1ccc(NC(=O)Nc2cc(nn2-c2ccccc2)C(C)(C)C)cc1,13  FLT3              FLT3,,=,26,Table 17,8
+UNC10225353A,Cc1ccc(NC(=O)Nc2cc(nn2-c2ccccc2)C(C)(C)C)cc1,13  GRK3             ADRBK2,,>,10000,Table 17,9
+UNC10225353A,Cc1ccc(NC(=O)Nc2cc(nn2-c2ccccc2)C(C)(C)C)cc1,13  IRAK3            IRAK3,,>,10000,Table 17,10
+UNC10225353A,Cc1ccc(NC(=O)Nc2cc(nn2-c2ccccc2)C(C)(C)C)cc1,13  KIT                 KIT,,=,260,Table 17,11
+UNC10225353A,Cc1ccc(NC(=O)Nc2cc(nn2-c2ccccc2)C(C)(C)C)cc1,13  MKNK2         MKNK2,,=,370,Table 17,12
+UNC10225353A,Cc1ccc(NC(=O)Nc2cc(nn2-c2ccccc2)C(C)(C)C)cc1,13  p38-alpha    MAPK14,,=,58,Table 17,13
+UNC10225353A,Cc1ccc(NC(=O)Nc2cc(nn2-c2ccccc2)C(C)(C)C)cc1,13  p38-beta      MAPK11,,=,540,Table 17,14
+UNC10225353A,Cc1ccc(NC(=O)Nc2cc(nn2-c2ccccc2)C(C)(C)C)cc1,13  PDGFRB        PDGFRB,,=,340,Table 17,15
+UNC10225353A,Cc1ccc(NC(=O)Nc2cc(nn2-c2ccccc2)C(C)(C)C)cc1,13  RAF1             RAF1,,=,270,Table 17,16
+UNC10225355A,Cc1ccccc1Cn1ccn2c1nc(cc2=O)N1CCOCC1,4  BRSK2           BRSK2,,>,10000,Table 17,17
+UNC10225355A,Cc1ccccc1Cn1ccn2c1nc(cc2=O)N1CCOCC1,4  MARK1         MARK1,,>,10000,Table 17,18
+UNC10225355A,Cc1ccccc1Cn1ccn2c1nc(cc2=O)N1CCOCC1,4  MARK4         MARK4,,>,10000,Table 17,19
+UNC10225355A,Cc1ccccc1Cn1ccn2c1nc(cc2=O)N1CCOCC1,4  PIK3CB          PIK3CB,,=,27,Table 17,20
+"UNC10225355A
+UNC10225359A","Cc1ccccc1Cn1ccn2c1nc(cc2=O)N1CCOCC1 Cc1ccc(NC(=O)Nc2ccc(Cl)c(c2)C(F)(F)F)cc1-
+c1ccc(cc1)C(=O)Nc1ccncc1","4  VPS34           PIK3C3
+8  CDKL1           CDKL1",,"=
+>","180
+10000",Table 17,21
+UNC10225359A,"Cc1ccc(NC(=O)Nc2ccc(Cl)c(c2)C(F)(F)F)cc1-
+c1ccc(cc1)C(=O)Nc1ccncc1",8  CIT                 CIT,,=,380,Table 17,22
+UNC10225359A,"Cc1ccc(NC(=O)Nc2ccc(Cl)c(c2)C(F)(F)F)cc1-
+c1ccc(cc1)C(=O)Nc1ccncc1",8  DDR1            DDR1,,=,120,Table 17,23
+UNC10225359A,"Cc1ccc(NC(=O)Nc2ccc(Cl)c(c2)C(F)(F)F)cc1-
+c1ccc(cc1)C(=O)Nc1ccncc1",8  KIT                 KIT,,=,560,Table 17,24
+UNC10225359A,"Cc1ccc(NC(=O)Nc2ccc(Cl)c(c2)C(F)(F)F)cc1-
+c1ccc(cc1)C(=O)Nc1ccncc1",8  p38-alpha    MAPK14,,=,310,Table 17,25
+UNC10225359A,"Cc1ccc(NC(=O)Nc2ccc(Cl)c(c2)C(F)(F)F)cc1-
+c1ccc(cc1)C(=O)Nc1ccncc1",8  p38-beta      MAPK11,,=,90,Table 17,26
+UNC10225359A,"Cc1ccc(NC(=O)Nc2ccc(Cl)c(c2)C(F)(F)F)cc1-
+c1ccc(cc1)C(=O)Nc1ccncc1",8  PDGFRB        PDGFRB,,=,270,Table 17,27
+UNC10225359A,"Cc1ccc(NC(=O)Nc2ccc(Cl)c(c2)C(F)(F)F)cc1-
+c1ccc(cc1)C(=O)Nc1ccncc1",8  RAF1             RAF1,,=,340,Table 17,28
+UNC10225360A,Oc1ccc2ncnc(Nc3ccc(OCc4ccccc4)cc3)c2c1,8  EGFR             EGFR,,=,9.3,Table 17,29
+UNC10225360A,Oc1ccc2ncnc(Nc3ccc(OCc4ccccc4)cc3)c2c1,8  ERBB2           ERBB2,,=,27,Table 17,30
+UNC10225360A,Oc1ccc2ncnc(Nc3ccc(OCc4ccccc4)cc3)c2c1,8  LTK                LTK,,>,10000,Table 17,31
+UNC10225360A,Oc1ccc2ncnc(Nc3ccc(OCc4ccccc4)cc3)c2c1,8  MEK5            MAP2K5,,=,82,Table 17,32
+UNC10225360A,Oc1ccc2ncnc(Nc3ccc(OCc4ccccc4)cc3)c2c1,8  PAK3             PAK3,,>,10000,Table 17,33
+UNC10225360A,Oc1ccc2ncnc(Nc3ccc(OCc4ccccc4)cc3)c2c1,8  RIPK2            RIPK2,,=,8.1,Table 17,34
+UNC10225362A,CC(C)(C)n1cnc2c(N)ncnc12,1  RSK1(Kin.DoRPS6KA1,,>,10000,Table 17,35
+UNC10225362A,CC(C)(C)n1cnc2c(N)ncnc12,1  SgK110         SgK110,,>,10000,Table 17,36
+UNC10225362A,CC(C)(C)n1cnc2c(N)ncnc12,1  VRK2             VRK2,,>,10000,Table 17,37
+"UNC10225364A
+UNC10225365A","Cc1cc(NCC(c2ccccc2)c2ccccc2)nc(NCc2ccc(cc2)C(F)(F)F)n1 O[C@H]([C@@H](O)C(O)=O)C(O)=O.Brc1cc2c(NC(=O)C3C
+CN(Cc4ccccc4)C3)n[nH]c2nc1-c1ccco1","0  ADCK4          ADCK4
+4  CDK7             CDK7",,"=
+=","2300
+1100",Table 17,38
+O[C@H]([C@@H](O)C(O)=O)C(O)=O.Brc1cc2c(NC(=O)C3C,,,,,,Table 18,1
+UNC10225367A,CC(C)(C)c1ccc(cc1)-n1cnc2c(N)ncnc12,3  JAK1(JH2do JAK1,,=,250,Table 18,11
+UNC10225373A,Oc1c(Cl)cc(NC2=C(C(=O)NC2=O)c2ccccc2)cc1Cl,1  JAK3(JH1do JAK3,,=,380,Table 18,28
+UNC10225401A,OC(=O)c1cccc(NC2=C(C(=O)NC2=O)c2ccccc2Cl)c1,11  ABL1-phosp ABL1,,>,10000,Table 18,116
+UNC10225417A,CSc1nn2c(nc(cc2=O)N2CCOCC2)n1Cc1cccc(c1C)C(F)(F)F,10  JAK2(JH1do JAK2,,>,10000,Table 18,146
+UNC10225418A,Fc1ccc(cc1)-c1nc[nH]c1-c1ccncc1,7  p38-alpha    MAPK14,,=,67,Table 18,161
+"UNC10225418A
+UNC10225421A","Fc1ccc(cc1)-c1nc[nH]c1-c1ccncc1 O=C(N1CCOCC1)c1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-
+c1ccccn1","7  RSK4(Kin.DoRPS6KA6
+1  TGFBR1        TGFBR1",,"=
+=","310
+180",Table 18,162
+UNC10225422A,"Cl.Fc1ccccc1COc1ccc(Nc2ncnc3ccc(cc23)-
+c2nnc(o2)C(F)(F)F)cc1Cl",5  EGFR             EGFR,,=,43,Table 18,163
+UNC10225422A,"Cl.Fc1ccccc1COc1ccc(Nc2ncnc3ccc(cc23)-
+c2nnc(o2)C(F)(F)F)cc1Cl",5  ERBB2           ERBB2,,=,110,Table 18,164
+UNC10225424A,"COc1ccc(Nc2nccc(n2)N2CCC(C2)NC(=O)Nc2cc(C)ccc2C)cc
+1",1  STK36           STK36,,=,1600,Table 18,165
+UNC10225425A,FC(F)(F)c1ccc(cc1)-c1ncn(CCCN2CCOCC2)c1-c1ccncc1,0  FGFR1           FGFR1,,>,10000,Table 18,166
+UNC10225425A,FC(F)(F)c1ccc(cc1)-c1ncn(CCCN2CCOCC2)c1-c1ccncc1,0  PRKCD          PRKCD,,>,10000,Table 18,167
+UNC10225429A,Nc1nc(-c2nccs2)c(s1)-c1ccnc2ccccc12,2  AKT3             AKT3,,>,10000,Table 18,168
+UNC10225429A,Nc1nc(-c2nccs2)c(s1)-c1ccnc2ccccc12,2  DMPK           DMPK,,>,10000,Table 18,169
+UNC10225429A,Nc1nc(-c2nccs2)c(s1)-c1ccnc2ccccc12,2  RSK2(Kin.DoRPS6KA3,,>,10000,Table 18,170
+UNC10225431A,COc1ccc(cc1)-c1oc2ncnc(N)c2c1-c1ccc(OC)cc1,5  DDR1            DDR1,,=,650,Table 18,171
+UNC10225431A,COc1ccc(cc1)-c1oc2ncnc(N)c2c1-c1ccc(OC)cc1,5  LATS1            LATS1,,>,10000,Table 18,172
+UNC10225431A,COc1ccc(cc1)-c1oc2ncnc(N)c2c1-c1ccc(OC)cc1,5  MEK5            MAP2K5,,=,3000,Table 18,173
+UNC10225431A,COc1ccc(cc1)-c1oc2ncnc(N)c2c1-c1ccc(OC)cc1,5  TYK2(JH2do TYK2,,=,1600,Table 18,174
+UNC10225435A,CSc1nn2c(nc(cc2=O)N2CCOCC2)n1Cc1cccc(Cl)c1Cl,4  CLK3              CLK3,,>,10000,Table 18,175
+UNC10225435A,CSc1nn2c(nc(cc2=O)N2CCOCC2)n1Cc1cccc(Cl)c1Cl,4  CSNK1E        CSNK1E,,>,10000,Table 18,176
+UNC10225435A,CSc1nn2c(nc(cc2=O)N2CCOCC2)n1Cc1cccc(Cl)c1Cl,4  DLK                MAP3K12,,>,10000,Table 18,177
+UNC10225435A,CSc1nn2c(nc(cc2=O)N2CCOCC2)n1Cc1cccc(Cl)c1Cl,4  PIK3C2B       PIK3C2B,,=,360,Table 18,178
+UNC10225435A,CSc1nn2c(nc(cc2=O)N2CCOCC2)n1Cc1cccc(Cl)c1Cl,4  PIK3CB          PIK3CB,,=,0.8,Table 18,179
+UNC10225435A,CSc1nn2c(nc(cc2=O)N2CCOCC2)n1Cc1cccc(Cl)c1Cl,4  PIK3CD         PIK3CD,,=,240,Table 18,180
+UNC10225435A,CSc1nn2c(nc(cc2=O)N2CCOCC2)n1Cc1cccc(Cl)c1Cl,4  VPS34           PIK3C3,,=,0.72,Table 18,181
+UNC10225439A,O=c1cc(nc2n(Cc3cccc4ccccc34)ccn12)N1CCOCC1,2  PIK3CB          PIK3CB,,=,2.9,Table 18,182
+UNC10225439A,O=c1cc(nc2n(Cc3cccc4ccccc34)ccn12)N1CCOCC1,2  PIK3CD         PIK3CD,,=,150,Table 18,183
+UNC10225439A,O=c1cc(nc2n(Cc3cccc4ccccc34)ccn12)N1CCOCC1,2  RET                RET,,>,10000,Table 18,184
+"UNC10225439A
+UNC10225440A","O=c1cc(nc2n(Cc3cccc4ccccc34)ccn12)N1CCOCC1 Cl.Fc1cccc(F)c1C(=O)Nc1cccc(c1)-c1nn2ncccc2c1-
+c1ccnc(Nc2cccnc2)n1","2  VPS34           PIK3C3
+13  BRAF             BRAF",,"=
+=","60
+62",Table 18,185
+UNC10225440A,"Cl.Fc1cccc(F)c1C(=O)Nc1cccc(c1)-c1nn2ncccc2c1-
+c1ccnc(Nc2cccnc2)n1",13  DDR1            DDR1,,=,140,Table 18,186
+UNC10225440A,"Cl.Fc1cccc(F)c1C(=O)Nc1cccc(c1)-c1nn2ncccc2c1-
+c1ccnc(Nc2cccnc2)n1",13  EGFR             EGFR,,=,38,Table 18,187
+UNC10225440A,"Cl.Fc1cccc(F)c1C(=O)Nc1cccc(c1)-c1nn2ncccc2c1-
+c1ccnc(Nc2cccnc2)n1",13  ERBB2           ERBB2,,=,29,Table 18,188
+UNC10225440A,"Cl.Fc1cccc(F)c1C(=O)Nc1cccc(c1)-c1nn2ncccc2c1-
+c1ccnc(Nc2cccnc2)n1",13  ERBB4           ERBB4,,=,64,Table 18,189
+UNC10225440A,"Cl.Fc1cccc(F)c1C(=O)Nc1cccc(c1)-c1nn2ncccc2c1-
+c1ccnc(Nc2cccnc2)n1",13  MEK5            MAP2K5,,=,230,Table 18,190
+UNC10225440A,"Cl.Fc1cccc(F)c1C(=O)Nc1cccc(c1)-c1nn2ncccc2c1-
+c1ccnc(Nc2cccnc2)n1",13  RAF1             RAF1,,=,430,Table 18,191
+UNC10225440A,"Cl.Fc1cccc(F)c1C(=O)Nc1cccc(c1)-c1nn2ncccc2c1-
+c1ccnc(Nc2cccnc2)n1",13  STK36           STK36,,=,98,Table 18,192
+UNC10225443A,"CN1CCC(CC1)n1cnc(c1-c1ccnc(NC2CCNCC2)n1)-
+c1ccc(F)cc1",6  CSNK1A1      CSNK1A1,,=,160,Table 18,193
+UNC10225443A,"CN1CCC(CC1)n1cnc(c1-c1ccnc(NC2CCNCC2)n1)-
+c1ccc(F)cc1",6  CSNK1D        CSNK1D,,=,89,Table 18,194
+UNC10225443A,"CN1CCC(CC1)n1cnc(c1-c1ccnc(NC2CCNCC2)n1)-
+c1ccc(F)cc1",6  CSNK1E        CSNK1E,,=,210,Table 18,195
+CN1CCC(CC1)n1cnc(c1-c1ccnc(NC2CCNCC2)n1)-,,,,,,Table 19,1
+UNC10225454A,COc1cccc(c1)-n1cnc2c(N)ncnc12,1  TYK2(JH1do TYK2,,>,10000.0,Table 19,54
+UNC10225455A,Brc1cc2c(NC(=O)C3CC3)n[nH]c2nc1-c1cccs1,11  RSK4(Kin.DoRPS6KA6,,=,3800.0,Table 19,65
+UNC10225462A,O=S(=O)(N1CCCC1)c1ccc(cc1)-c1ccnc2[nH]ccc12,1  JAK2(JH1do JAK2,,=,360.0,Table 19,70
+UNC10225462A,O=S(=O)(N1CCCC1)c1ccc(cc1)-c1ccnc2[nH]ccc12,1  PKAC-alpha PRKACA,,=,260.0,Table 19,71
+UNC10225464A,Clc1ccc(cc1)C1=C(Nc2cccc(Cl)c2)C(=O)NC1=O,6  RPS6KA4(Ki RPS6KA4,,>,10000.0,Table 19,92
+UNC10225468A,Nc1n[nH]c2ncc(cc12)-c1ccccc1,2  TYK2(JH2do TYK2,,=,950.0,Table 19,99
+UNC10225482A,Cl.Oc1ccc(cc1)-c1nc([nH]c1-c1ccncc1)-c1ccccc1,4  TYK2(JH1do TYK2,,>,10000.0,Table 19,118
+UNC10225488A,Cl.C(c1ccccc1)n1ccc2cc(Nc3ncnc4ccccc34)ccc12,9  JAK2(JH1do JAK2,,>,10000.0,Table 19,123
+UNC10225492A,Fc1ccc(Nc2nccc(NCCNC(=O)Nc3ccc4OCOc4c3)n2)cc1,4  JAK2(JH1do JAK2,,=,2000.0,Table 19,146
+UNC10225493A,Cl.Cc1nccc(n1)-c1c(ncn1CCCN1CCOCC1)-c1ccc(F)cc1,9  RPS6KA4(Ki RPS6KA4,,>,10000.0,Table 19,157
+UNC10243861A,Cc1c(Cn2ccn3c2nc(cc3=O)N2CCOCC2)cccc1C(F)(F)F,3  JAK1(JH1do JAK1,,>,10000.0,Table 19,183
+UNC10243863A,Nc1ncnc2[nH]c(nc12)-c1ccccc1,11  TYK2(JH2do TYK2,,=,96.0,Table 19,197

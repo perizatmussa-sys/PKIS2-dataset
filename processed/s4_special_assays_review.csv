@@ -1,0 +1,10 @@
+target_original,target_id,species,mutation,phosphorylation_state,target_class,notes,parent_target,wild_type_or_mutant,target_name_clean,parent_target_if_mutant
+ABL1-nonphosphorylated,ABL1-nonphosphorylated,human,not_specified,nonphosphorylated,unresolved,none,ABL1,wild_type,ABL1,
+ABL1-phosphorylated,ABL1-phosphorylated,human,not_specified,phosphorylated,unresolved,none,ABL1,wild_type,ABL1,
+"GCN2(Kin.Dom.2,S808G)","GCN2(Kin.Dom.2,S808G)",human,mutant,not_specified,unresolved,kinase domain 2 assay,GCN2,mutant,GCN2,GCN2
+JAK1(JH1domain-catalytic),JAK1(JH1domain-catalytic),human,not_specified,not_specified,unresolved,JH1 catalytic domain assay,JAK1,wild_type,JAK1,
+JAK1(JH2domain-pseudokinase),JAK1(JH2domain-pseudokinase),human,not_specified,not_specified,unresolved,JH2 pseudokinase domain assay,JAK1,wild_type,JAK1,
+JAK2(JH1domain-catalytic),JAK2(JH1domain-catalytic),human,not_specified,not_specified,unresolved,JH1 catalytic domain assay,JAK2,wild_type,JAK2,
+JAK3(JH1domain-catalytic),JAK3(JH1domain-catalytic),human,not_specified,not_specified,unresolved,JH1 catalytic domain assay,JAK3,wild_type,JAK3,
+TYK2(JH1domain-catalytic),TYK2(JH1domain-catalytic),human,not_specified,not_specified,unresolved,JH1 catalytic domain assay,TYK2,wild_type,TYK2,
+TYK2(JH2domain-pseudokinase),TYK2(JH2domain-pseudokinase),human,not_specified,not_specified,unresolved,JH2 pseudokinase domain assay,TYK2,wild_type,TYK2,

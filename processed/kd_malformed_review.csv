@@ -1,0 +1,112 @@
+Compound Name,Smiles,"DiscoveRx
+%Inh >90  Gene
+Symbol","Entrez Gene
+Symbol",Modifier,Kd (nM)
+"PFE-PKIS 25
+PFE-PKIS 25","CN([C@H]1CN(C(CC#N)=O)CC[C@H]1C)C2=C3C(NC=C3)=NC=N2
+CN([C@H]1CN(C(CC#N)=O)CC[C@H]1C)C2=C3C(NC=C3)= NC=N2","10  RSK3(Kin.DoRPS6KA2
+10  RSK4(Kin.DoRPS6KA6",,"=
+=","1300
+1400"
+"PFE-PKIS 27
+PFE-PKIS 28","FC1=C(F)C=CC(C(NOCC2CC2)=O)=C1NC3=CC=C(I)C=C3Cl
+O=C(C1=CN=C(N=C1NC2CCNCC2)NCC3=C(C=CC(Cl)=C3)Cl) NCCCN4C(CCC4)=O","3  RIPK4            RIPK4
+3  CSF1R           CSF1R",,">
+>","10000
+10000"
+"PFE-PKIS 35
+PFE-PKIS 35","N#CC1=C(N2CCOCC2)SC(C3=NC=NN3)=C1C4=CC=C(S(=O)(C)=O)C=C4 N#CC1=C(N2CCOCC2)SC(C3=NC=NN3)=C1C4=CC=C(S(=O)(
+C)=O)C=C4","16  RSK3(Kin.DoRPS6KA2
+16  RSK4(Kin.DoRPS6KA6",,">
+>","10000
+10000"
+"SKF-97560
+TPKI-100","Nc1ncnc2n(cnc12)-c1cccc(F)c1 COC(=O)C1=C(C2=CC=CC=C2)C2=CC(Br)=CC=C2C(=O)N1C
+C1=CC=C(C=C1)S(C)(=O)=O","6  TNNI3K         TNNI3K
+3  JNK1              MAPK8",,">
+=","10000
+480"
+"TPKI-106
+TPKI-107","CCC1=NC(=C(S1)C1=CC=NC=C1)C1=CC(C)=CC=C1 CCC1=NC(=C(S1)C1=CC(NC(=O)C2=CC=CC=C2)=NC=C1)C1
+=CC(C)=CC=C1","4  RSK4(Kin.DoRPS6KA6
+6  CSNK1A1      CSNK1A1",,"=
+=","120
+1400"
+"TPKI-39
+TPKI-39","O=C(NC1=CC=CC=C1)NC1=CC=CC(OC2=NN3C=CN=C3C=C2)=C1 O=C(NC1=CC=CC=C1)NC1=CC=CC(OC2=NN3C=CN=C3C=C
+2)=C1","10  ABL1-nonphABL1
+10  CIT                 CIT",,"=
+=","140
+1.1"
+"TPKI-55
+TPKI-56","CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(Cl)C=CC2=N1
+CNCC1=CN2C=C(NC(=O)C3=CC=C(C=C3)C(C)(C)C)N=C2C=C 1","7  PYK2             PTK2B
+4  CLK1              CLK1",,">
+=","10000
+7500"
+"TPKI-57
+TPKI-58","CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(C=CC2=N1)C1=CC=CC=C1 CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(C=CC2=N1)C1
+=CC=CN=C1","4  RSK3(Kin.DoRPS6KA2
+6  ASK1             MAP3K5",,">
+=","10000
+64"
+"TPKI-85
+TPKI-85","CC1=NN=C(N1)C1=CC=C2OC=C(C2=C1)C1=CC=C(C=C1)S(C)=O CC1=NN=C(N1)C1=CC=C2OC=C(C2=C1)C1=CC=C(C=C1)S(C
+)=O","4  AMPK-alphaPRKAA1
+4  GSK3A          GSK3A",,">
+=","10000
+190"
+"UNC10225035A
+UNC10225037A","Cn1cncc1-c1cc2c(Nc3ccc(OCc4ccccc4)cc3)ncnc2cn1 C1COc2cc(Nc3nccc(n3)-c3cnn4nc(ccc34)-
+c3ccccc3)ccc2O1","12  TYK2(JH1do TYK2
+4  CSK                CSK",,">
+>","10000
+10000"
+"UNC10225075A
+UNC10225080A","CN(C)c1cc(nc(N)n1)-c1ccc2c(N)n[nH]c2c1 COc1cc(Nc2nccc(n2)N2CCC(C2)NC(=O)C(C)c2ccc(Cl)cc2)cc
+(OC)c1OC","2  ZAK                ZAK
+2  EPHB6           EPHB6",,">
+=","10000
+100"
+"UNC10225127A
+UNC10225129A","COc1ccc(COc2cc(sc2C(N)=O)-n2cnc3ccccc23)cc1 Fc1ccc(CNc2nccc(n2)N2CCC(CC2)NC(=O)Nc2ccc3OCOc3c2
+)cc1","4  RIOK2           RIOK2
+2  MELK            MELK",,"=
+>","76
+10000"
+"UNC10225163A
+UNC10225164A","Fc1ccc(cc1)-c1nc2SCCn2c1-c1ccncc1 COC(=O)c1cccc(NC(=O)NC2CCN(C2)c2ccnc(Nc3ccc(F)cc3)
+n2)c1","8  RSK4(Kin.DoRPS6KA6
+0  CDKL2           CDKL2",,"=
+=","260
+680"
+"UNC10225352A
+UNC10225352A","OCCCNc1nccc(n1)-c1c(nn2cc(ccc12)C(F)(F)F)-c1cccc(c1)C(F)(F)F
+OCCCNc1nccc(n1)-c1c(nn2cc(ccc12)C(F)(F)F)-c1cccc(c1)C(F)(F)F","3  p38-alpha    MAPK14
+3  RSK4(Kin.DoRPS6KA6",,"=
+=","1300
+2700"
+"UNC10225355A
+UNC10225359A","Cc1ccccc1Cn1ccn2c1nc(cc2=O)N1CCOCC1 Cc1ccc(NC(=O)Nc2ccc(Cl)c(c2)C(F)(F)F)cc1-
+c1ccc(cc1)C(=O)Nc1ccncc1","4  VPS34           PIK3C3
+8  CDKL1           CDKL1",,"=
+>","180
+10000"
+"UNC10225364A
+UNC10225365A","Cc1cc(NCC(c2ccccc2)c2ccccc2)nc(NCc2ccc(cc2)C(F)(F)F)n1 O[C@H]([C@@H](O)C(O)=O)C(O)=O.Brc1cc2c(NC(=O)C3C
+CN(Cc4ccccc4)C3)n[nH]c2nc1-c1ccco1","0  ADCK4          ADCK4
+4  CDK7             CDK7",,"=
+=","2300
+1100"
+"UNC10225418A
+UNC10225421A","Fc1ccc(cc1)-c1nc[nH]c1-c1ccncc1 O=C(N1CCOCC1)c1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-
+c1ccccn1","7  RSK4(Kin.DoRPS6KA6
+1  TGFBR1        TGFBR1",,"=
+=","310
+180"
+"UNC10225439A
+UNC10225440A","O=c1cc(nc2n(Cc3cccc4ccccc34)ccn12)N1CCOCC1 Cl.Fc1cccc(F)c1C(=O)Nc1cccc(c1)-c1nn2ncccc2c1-
+c1ccnc(Nc2cccnc2)n1","2  VPS34           PIK3C3
+13  BRAF             BRAF",,"=
+=","60
+62"

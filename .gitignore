@@ -1,0 +1,6 @@
+DeepDTA/
+.vscode/
+__pycache__/
+*.pyc
+.env
+.env.*
